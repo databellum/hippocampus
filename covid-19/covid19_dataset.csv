@@ -111,6 +111,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 4,Afghanistan,Afghanistan,5/10/20,4402,369,120,5,558,56
 4,Afghanistan,Afghanistan,5/11/20,4687,285,122,2,558,0
 4,Afghanistan,Afghanistan,5/12/20,4963,276,127,5,610,52
+4,Afghanistan,Afghanistan,5/13/20,5226,263,132,5,648,38
 8,Albania,Albania,1/22/20,0,0,0,0,0,0
 8,Albania,Albania,1/23/20,0,0,0,0,0,0
 8,Albania,Albania,1/24/20,0,0,0,0,0,0
@@ -223,6 +224,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 8,Albania,Albania,5/10/20,868,12,31,0,650,23
 8,Albania,Albania,5/11/20,872,4,31,0,654,4
 8,Albania,Albania,5/12/20,876,4,31,0,682,28
+8,Albania,Albania,5/13/20,880,4,31,0,688,6
 12,Algeria,Algeria,1/22/20,0,0,0,0,0,0
 12,Algeria,Algeria,1/23/20,0,0,0,0,0,0
 12,Algeria,Algeria,1/24/20,0,0,0,0,0,0
@@ -335,6 +337,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 12,Algeria,Algeria,5/10/20,5723,165,502,8,2678,132
 12,Algeria,Algeria,5/11/20,5891,168,507,5,2841,163
 12,Algeria,Algeria,5/12/20,6067,176,515,8,2998,157
+12,Algeria,Algeria,5/13/20,6253,186,522,7,3058,60
 20,Andorra,Andorra,1/22/20,0,0,0,0,0,0
 20,Andorra,Andorra,1/23/20,0,0,0,0,0,0
 20,Andorra,Andorra,1/24/20,0,0,0,0,0,0
@@ -447,6 +450,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 20,Andorra,Andorra,5/10/20,755,1,48,0,550,5
 20,Andorra,Andorra,5/11/20,755,0,48,0,550,0
 20,Andorra,Andorra,5/12/20,758,3,48,0,568,18
+20,Andorra,Andorra,5/13/20,760,2,49,1,576,8
 24,Angola,Angola,1/22/20,0,0,0,0,0,0
 24,Angola,Angola,1/23/20,0,0,0,0,0,0
 24,Angola,Angola,1/24/20,0,0,0,0,0,0
@@ -559,6 +563,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 24,Angola,Angola,5/10/20,45,2,2,0,13,0
 24,Angola,Angola,5/11/20,45,0,2,0,13,0
 24,Angola,Angola,5/12/20,45,0,2,0,13,0
+24,Angola,Angola,5/13/20,45,0,2,0,14,1
 28,Antigua and Barbuda,Antigua and Barbuda,1/22/20,0,0,0,0,0,0
 28,Antigua and Barbuda,Antigua and Barbuda,1/23/20,0,0,0,0,0,0
 28,Antigua and Barbuda,Antigua and Barbuda,1/24/20,0,0,0,0,0,0
@@ -671,6 +676,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 28,Antigua and Barbuda,Antigua and Barbuda,5/10/20,25,0,3,0,19,0
 28,Antigua and Barbuda,Antigua and Barbuda,5/11/20,25,0,3,0,19,0
 28,Antigua and Barbuda,Antigua and Barbuda,5/12/20,25,0,3,0,19,0
+28,Antigua and Barbuda,Antigua and Barbuda,5/13/20,25,0,3,0,19,0
 32,Argentina,Argentina,1/22/20,0,0,0,0,0,0
 32,Argentina,Argentina,1/23/20,0,0,0,0,0,0
 32,Argentina,Argentina,1/24/20,0,0,0,0,0,0
@@ -783,6 +789,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 32,Argentina,Argentina,5/10/20,6034,258,305,5,1757,29
 32,Argentina,Argentina,5/11/20,6278,244,314,9,1837,80
 32,Argentina,Argentina,5/12/20,6563,285,319,5,1862,25
+32,Argentina,Argentina,5/13/20,6879,316,329,10,2266,404
 51,Armenia,Armenia,1/22/20,0,0,0,0,0,0
 51,Armenia,Armenia,1/23/20,0,0,0,0,0,0
 51,Armenia,Armenia,1/24/20,0,0,0,0,0,0
@@ -895,6 +902,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 51,Armenia,Armenia,5/10/20,3313,138,45,1,1325,58
 51,Armenia,Armenia,5/11/20,3392,79,46,1,1359,34
 51,Armenia,Armenia,5/12/20,3538,146,47,1,1430,71
+51,Armenia,Armenia,5/13/20,3718,180,48,1,1500,70
 3601,Australia,Australian Capital Territory,1/22/20,0,0,0,0,0,0
 3601,Australia,Australian Capital Territory,1/23/20,0,0,0,0,0,0
 3601,Australia,Australian Capital Territory,1/24/20,0,0,0,0,0,0
@@ -1007,6 +1015,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3601,Australia,Australian Capital Territory,5/10/20,107,0,3,0,104,0
 3601,Australia,Australian Capital Territory,5/11/20,107,0,3,0,104,0
 3601,Australia,Australian Capital Territory,5/12/20,107,0,3,0,104,0
+3601,Australia,Australian Capital Territory,5/13/20,107,0,3,0,104,0
 3602,Australia,New South Wales,1/22/20,0,0,0,0,0,0
 3602,Australia,New South Wales,1/23/20,0,0,0,0,0,0
 3602,Australia,New South Wales,1/24/20,0,0,0,0,0,0
@@ -1119,6 +1128,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3602,Australia,New South Wales,5/10/20,3053,0,44,0,2517,13
 3602,Australia,New South Wales,5/11/20,3053,0,44,0,2543,26
 3602,Australia,New South Wales,5/12/20,3059,6,45,1,2571,28
+3602,Australia,New South Wales,5/13/20,3063,4,45,0,2595,24
 3603,Australia,Northern Territory,1/22/20,0,0,0,0,0,0
 3603,Australia,Northern Territory,1/23/20,0,0,0,0,0,0
 3603,Australia,Northern Territory,1/24/20,0,0,0,0,0,0
@@ -1231,6 +1241,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3603,Australia,Northern Territory,5/10/20,29,0,0,0,27,0
 3603,Australia,Northern Territory,5/11/20,29,0,0,0,27,0
 3603,Australia,Northern Territory,5/12/20,29,0,0,0,27,0
+3603,Australia,Northern Territory,5/13/20,29,0,0,0,27,0
 3604,Australia,Queensland,1/22/20,0,0,0,0,0,0
 3604,Australia,Queensland,1/23/20,0,0,0,0,0,0
 3604,Australia,Queensland,1/24/20,0,0,0,0,0,0
@@ -1343,6 +1354,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3604,Australia,Queensland,5/10/20,1045,0,6,0,1021,2
 3604,Australia,Queensland,5/11/20,1051,6,6,0,1027,6
 3604,Australia,Queensland,5/12/20,1052,1,6,0,1028,1
+3604,Australia,Queensland,5/13/20,1051,0,6,0,1030,2
 3605,Australia,South Australia,1/22/20,0,0,0,0,0,0
 3605,Australia,South Australia,1/23/20,0,0,0,0,0,0
 3605,Australia,South Australia,1/24/20,0,0,0,0,0,0
@@ -1455,6 +1467,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3605,Australia,South Australia,5/10/20,439,0,4,0,434,1
 3605,Australia,South Australia,5/11/20,439,0,4,0,434,0
 3605,Australia,South Australia,5/12/20,439,0,4,0,434,0
+3605,Australia,South Australia,5/13/20,439,0,4,0,434,0
 3606,Australia,Tasmania,1/22/20,0,0,0,0,0,0
 3606,Australia,Tasmania,1/23/20,0,0,0,0,0,0
 3606,Australia,Tasmania,1/24/20,0,0,0,0,0,0
@@ -1567,6 +1580,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3606,Australia,Tasmania,5/10/20,227,0,13,0,182,0
 3606,Australia,Tasmania,5/11/20,227,0,13,0,182,0
 3606,Australia,Tasmania,5/12/20,227,0,13,0,184,2
+3606,Australia,Tasmania,5/13/20,227,0,13,0,184,0
 3607,Australia,Victoria,1/22/20,0,0,0,0,0,0
 3607,Australia,Victoria,1/23/20,0,0,0,0,0,0
 3607,Australia,Victoria,1/24/20,0,0,0,0,0,0
@@ -1679,6 +1693,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3607,Australia,Victoria,5/10/20,1496,9,18,0,1346,10
 3607,Australia,Victoria,5/11/20,1511,15,18,0,1360,14
 3607,Australia,Victoria,5/12/20,1514,3,18,0,1385,25
+3607,Australia,Victoria,5/13/20,1521,7,18,0,1385,0
 3608,Australia,Western Australia,1/22/20,0,0,0,0,0,0
 3608,Australia,Western Australia,1/23/20,0,0,0,0,0,0
 3608,Australia,Western Australia,1/24/20,0,0,0,0,0,0
@@ -1791,6 +1806,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 3608,Australia,Western Australia,5/10/20,552,0,9,0,536,0
 3608,Australia,Western Australia,5/11/20,553,1,9,0,536,0
 3608,Australia,Western Australia,5/12/20,553,0,9,0,537,1
+3608,Australia,Western Australia,5/13/20,552,0,9,0,538,1
 40,Austria,Austria,1/22/20,0,0,0,0,0,0
 40,Austria,Austria,1/23/20,0,0,0,0,0,0
 40,Austria,Austria,1/24/20,0,0,0,0,0,0
@@ -1903,6 +1919,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 40,Austria,Austria,5/10/20,15871,38,618,3,13991,63
 40,Austria,Austria,5/11/20,15882,11,620,2,14061,70
 40,Austria,Austria,5/12/20,15961,79,623,3,14148,87
+40,Austria,Austria,5/13/20,15997,36,624,1,14304,156
 31,Azerbaijan,Azerbaijan,1/22/20,0,0,0,0,0,0
 31,Azerbaijan,Azerbaijan,1/23/20,0,0,0,0,0,0
 31,Azerbaijan,Azerbaijan,1/24/20,0,0,0,0,0,0
@@ -2015,6 +2032,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 31,Azerbaijan,Azerbaijan,5/10/20,2519,97,32,1,1650,30
 31,Azerbaijan,Azerbaijan,5/11/20,2589,70,32,0,1680,30
 31,Azerbaijan,Azerbaijan,5/12/20,2693,104,33,1,1680,0
+31,Azerbaijan,Azerbaijan,5/13/20,2758,65,35,2,1789,109
 44,Bahamas,Bahamas,1/22/20,0,0,0,0,0,0
 44,Bahamas,Bahamas,1/23/20,0,0,0,0,0,0
 44,Bahamas,Bahamas,1/24/20,0,0,0,0,0,0
@@ -2127,6 +2145,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 44,Bahamas,Bahamas,5/10/20,92,0,11,0,37,0
 44,Bahamas,Bahamas,5/11/20,93,1,11,0,39,2
 44,Bahamas,Bahamas,5/12/20,93,0,11,0,39,0
+44,Bahamas,Bahamas,5/13/20,94,1,11,0,41,2
 48,Bahrain,Bahrain,1/22/20,0,0,0,0,0,0
 48,Bahrain,Bahrain,1/23/20,0,0,0,0,0,0
 48,Bahrain,Bahrain,1/24/20,0,0,0,0,0,0
@@ -2239,6 +2258,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 48,Bahrain,Bahrain,5/10/20,4941,167,8,0,2070,15
 48,Bahrain,Bahrain,5/11/20,5236,295,8,0,2152,82
 48,Bahrain,Bahrain,5/12/20,5531,295,9,1,2192,40
+48,Bahrain,Bahrain,5/13/20,5816,285,10,1,2205,13
 50,Bangladesh,Bangladesh,1/22/20,0,0,0,0,0,0
 50,Bangladesh,Bangladesh,1/23/20,0,0,0,0,0,0
 50,Bangladesh,Bangladesh,1/24/20,0,0,0,0,0,0
@@ -2351,6 +2371,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 50,Bangladesh,Bangladesh,5/10/20,14657,887,228,14,2650,236
 50,Bangladesh,Bangladesh,5/11/20,15691,1034,239,11,2902,252
 50,Bangladesh,Bangladesh,5/12/20,16660,969,250,11,3147,245
+50,Bangladesh,Bangladesh,5/13/20,17822,1162,269,19,3361,214
 52,Barbados,Barbados,1/22/20,0,0,0,0,0,0
 52,Barbados,Barbados,1/23/20,0,0,0,0,0,0
 52,Barbados,Barbados,1/24/20,0,0,0,0,0,0
@@ -2463,6 +2484,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 52,Barbados,Barbados,5/10/20,84,0,7,0,57,0
 52,Barbados,Barbados,5/11/20,84,0,7,0,57,0
 52,Barbados,Barbados,5/12/20,85,1,7,0,57,0
+52,Barbados,Barbados,5/13/20,85,0,7,0,65,8
 112,Belarus,Belarus,1/22/20,0,0,0,0,0,0
 112,Belarus,Belarus,1/23/20,0,0,0,0,0,0
 112,Belarus,Belarus,1/24/20,0,0,0,0,0,0
@@ -2575,6 +2597,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 112,Belarus,Belarus,5/10/20,22973,921,131,5,6406,356
 112,Belarus,Belarus,5/11/20,23906,933,135,4,6531,125
 112,Belarus,Belarus,5/12/20,24873,967,142,7,6974,443
+112,Belarus,Belarus,5/13/20,25825,952,146,4,7711,737
 56,Belgium,Belgium,1/22/20,0,0,0,0,0,0
 56,Belgium,Belgium,1/23/20,0,0,0,0,0,0
 56,Belgium,Belgium,1/24/20,0,0,0,0,0,0
@@ -2687,6 +2710,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 56,Belgium,Belgium,5/10/20,53081,485,8656,75,13642,231
 56,Belgium,Belgium,5/11/20,53449,368,8707,51,13697,55
 56,Belgium,Belgium,5/12/20,53779,330,8761,54,13732,35
+56,Belgium,Belgium,5/13/20,53981,202,8843,82,13937,205
 204,Benin,Benin,1/22/20,0,0,0,0,0,0
 204,Benin,Benin,1/23/20,0,0,0,0,0,0
 204,Benin,Benin,1/24/20,0,0,0,0,0,0
@@ -2799,6 +2823,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 204,Benin,Benin,5/10/20,319,35,2,0,62,0
 204,Benin,Benin,5/11/20,319,0,2,0,62,0
 204,Benin,Benin,5/12/20,327,8,2,0,76,14
+204,Benin,Benin,5/13/20,327,0,2,0,83,7
 64,Bhutan,Bhutan,1/22/20,0,0,0,0,0,0
 64,Bhutan,Bhutan,1/23/20,0,0,0,0,0,0
 64,Bhutan,Bhutan,1/24/20,0,0,0,0,0,0
@@ -2911,6 +2936,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 64,Bhutan,Bhutan,5/10/20,7,0,0,0,5,0
 64,Bhutan,Bhutan,5/11/20,9,2,0,0,5,0
 64,Bhutan,Bhutan,5/12/20,11,2,0,0,5,0
+64,Bhutan,Bhutan,5/13/20,15,4,0,0,5,0
 68,Bolivia,Bolivia,1/22/20,0,0,0,0,0,0
 68,Bolivia,Bolivia,1/23/20,0,0,0,0,0,0
 68,Bolivia,Bolivia,1/24/20,0,0,0,0,0,0
@@ -3023,6 +3049,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 68,Bolivia,Bolivia,5/10/20,2556,119,118,4,273,15
 68,Bolivia,Bolivia,5/11/20,2831,275,122,4,299,26
 68,Bolivia,Bolivia,5/12/20,2964,133,128,6,313,14
+68,Bolivia,Bolivia,5/13/20,3148,184,142,14,339,26
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,1/22/20,0,0,0,0,0,0
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,1/23/20,0,0,0,0,0,0
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,1/24/20,0,0,0,0,0,0
@@ -3135,6 +3162,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,5/10/20,2117,27,107,5,1106,47
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,5/11/20,2141,24,113,6,1114,8
 70,Bosnia and Herzegovina,Bosnia and Herzegovina,5/12/20,2158,17,117,4,1168,54
+70,Bosnia and Herzegovina,Bosnia and Herzegovina,5/13/20,2181,23,120,3,1228,60
 76,Brazil,Brazil,1/22/20,0,0,0,0,0,0
 76,Brazil,Brazil,1/23/20,0,0,0,0,0,0
 76,Brazil,Brazil,1/24/20,0,0,0,0,0,0
@@ -3247,6 +3275,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 76,Brazil,Brazil,5/10/20,162699,6638,11123,467,64957,3272
 76,Brazil,Brazil,5/11/20,169594,6895,11653,530,67384,2427
 76,Brazil,Brazil,5/12/20,178214,8620,12461,808,72597,5213
+76,Brazil,Brazil,5/13/20,190137,11923,13240,779,78424,5827
 96,Brunei,Brunei,1/22/20,0,0,0,0,0,0
 96,Brunei,Brunei,1/23/20,0,0,0,0,0,0
 96,Brunei,Brunei,1/24/20,0,0,0,0,0,0
@@ -3359,6 +3388,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 96,Brunei,Brunei,5/10/20,141,0,1,0,134,2
 96,Brunei,Brunei,5/11/20,141,0,1,0,134,0
 96,Brunei,Brunei,5/12/20,141,0,1,0,134,0
+96,Brunei,Brunei,5/13/20,141,0,1,0,134,0
 100,Bulgaria,Bulgaria,1/22/20,0,0,0,0,0,0
 100,Bulgaria,Bulgaria,1/23/20,0,0,0,0,0,0
 100,Bulgaria,Bulgaria,1/24/20,0,0,0,0,0,0
@@ -3471,6 +3501,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 100,Bulgaria,Bulgaria,5/10/20,1965,44,91,1,444,22
 100,Bulgaria,Bulgaria,5/11/20,1990,25,93,2,461,17
 100,Bulgaria,Bulgaria,5/12/20,2023,33,95,2,476,15
+100,Bulgaria,Bulgaria,5/13/20,2069,46,96,1,499,23
 854,Burkina Faso,Burkina Faso,1/22/20,0,0,0,0,0,0
 854,Burkina Faso,Burkina Faso,1/23/20,0,0,0,0,0,0
 854,Burkina Faso,Burkina Faso,1/24/20,0,0,0,0,0,0
@@ -3583,6 +3614,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 854,Burkina Faso,Burkina Faso,5/10/20,751,3,49,1,577,8
 854,Burkina Faso,Burkina Faso,5/11/20,760,9,50,1,584,7
 854,Burkina Faso,Burkina Faso,5/12/20,766,6,51,1,588,4
+854,Burkina Faso,Burkina Faso,5/13/20,773,7,51,0,592,4
 132,Cabo Verde,Cabo Verde,1/22/20,0,0,0,0,0,0
 132,Cabo Verde,Cabo Verde,1/23/20,0,0,0,0,0,0
 132,Cabo Verde,Cabo Verde,1/24/20,0,0,0,0,0,0
@@ -3695,6 +3727,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 132,Cabo Verde,Cabo Verde,5/10/20,246,10,2,0,56,0
 132,Cabo Verde,Cabo Verde,5/11/20,260,14,2,0,58,2
 132,Cabo Verde,Cabo Verde,5/12/20,267,7,2,0,58,0
+132,Cabo Verde,Cabo Verde,5/13/20,289,22,2,0,61,3
 116,Cambodia,Cambodia,1/22/20,0,0,0,0,0,0
 116,Cambodia,Cambodia,1/23/20,0,0,0,0,0,0
 116,Cambodia,Cambodia,1/24/20,0,0,0,0,0,0
@@ -3807,6 +3840,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 116,Cambodia,Cambodia,5/10/20,122,0,0,0,120,0
 116,Cambodia,Cambodia,5/11/20,122,0,0,0,121,1
 116,Cambodia,Cambodia,5/12/20,122,0,0,0,121,0
+116,Cambodia,Cambodia,5/13/20,122,0,0,0,121,0
 120,Cameroon,Cameroon,1/22/20,0,0,0,0,0,0
 120,Cameroon,Cameroon,1/23/20,0,0,0,0,0,0
 120,Cameroon,Cameroon,1/24/20,0,0,0,0,0,0
@@ -3919,6 +3953,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 120,Cameroon,Cameroon,5/10/20,2579,305,114,6,1465,233
 120,Cameroon,Cameroon,5/11/20,2689,110,125,11,1524,59
 120,Cameroon,Cameroon,5/12/20,2689,0,125,0,1524,0
+120,Cameroon,Cameroon,5/13/20,2800,111,136,11,1543,19
 140,Central African Republic,Central African Republic,1/22/20,0,0,0,0,0,0
 140,Central African Republic,Central African Republic,1/23/20,0,0,0,0,0,0
 140,Central African Republic,Central African Republic,1/24/20,0,0,0,0,0,0
@@ -4031,6 +4066,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 140,Central African Republic,Central African Republic,5/10/20,143,0,0,0,10,0
 140,Central African Republic,Central African Republic,5/11/20,143,0,0,0,10,0
 140,Central African Republic,Central African Republic,5/12/20,143,0,0,0,10,0
+140,Central African Republic,Central African Republic,5/13/20,143,0,0,0,10,0
 148,Chad,Chad,1/22/20,0,0,0,0,0,0
 148,Chad,Chad,1/23/20,0,0,0,0,0,0
 148,Chad,Chad,1/24/20,0,0,0,0,0,0
@@ -4143,6 +4179,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 148,Chad,Chad,5/10/20,322,0,31,0,53,0
 148,Chad,Chad,5/11/20,322,0,31,0,53,0
 148,Chad,Chad,5/12/20,357,35,40,9,76,23
+148,Chad,Chad,5/13/20,372,15,42,2,78,2
 152,Chile,Chile,1/22/20,0,0,0,0,0,0
 152,Chile,Chile,1/23/20,0,0,0,0,0,0
 152,Chile,Chile,1/24/20,0,0,0,0,0,0
@@ -4255,6 +4292,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 152,Chile,Chile,5/10/20,28866,1647,312,8,13112,445
 152,Chile,Chile,5/11/20,30063,1197,323,11,13605,493
 152,Chile,Chile,5/12/20,31721,1658,335,12,14125,520
+152,Chile,Chile,5/13/20,34381,2660,346,11,14865,740
 15601,China,Anhui,1/22/20,1,1,0,0,0,0
 15601,China,Anhui,1/23/20,9,8,0,0,0,0
 15601,China,Anhui,1/24/20,15,6,0,0,0,0
@@ -4367,6 +4405,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15601,China,Anhui,5/10/20,991,0,6,0,985,0
 15601,China,Anhui,5/11/20,991,0,6,0,985,0
 15601,China,Anhui,5/12/20,991,0,6,0,985,0
+15601,China,Anhui,5/13/20,991,0,6,0,985,0
 15602,China,Beijing,1/22/20,14,14,0,0,0,0
 15602,China,Beijing,1/23/20,22,8,0,0,0,0
 15602,China,Beijing,1/24/20,36,14,0,0,1,1
@@ -4479,6 +4518,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15602,China,Beijing,5/10/20,593,0,9,0,568,3
 15602,China,Beijing,5/11/20,593,0,9,0,571,3
 15602,China,Beijing,5/12/20,593,0,9,0,573,2
+15602,China,Beijing,5/13/20,593,0,9,0,574,1
 15603,China,Chongqing,1/22/20,6,6,0,0,0,0
 15603,China,Chongqing,1/23/20,9,3,0,0,0,0
 15603,China,Chongqing,1/24/20,27,18,0,0,0,0
@@ -4591,6 +4631,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15603,China,Chongqing,5/10/20,579,0,6,0,573,0
 15603,China,Chongqing,5/11/20,579,0,6,0,573,0
 15603,China,Chongqing,5/12/20,579,0,6,0,573,0
+15603,China,Chongqing,5/13/20,579,0,6,0,573,0
 15604,China,Fujian,1/22/20,1,1,0,0,0,0
 15604,China,Fujian,1/23/20,5,4,0,0,0,0
 15604,China,Fujian,1/24/20,10,5,0,0,0,0
@@ -4703,6 +4744,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15604,China,Fujian,5/10/20,356,0,1,0,354,0
 15604,China,Fujian,5/11/20,356,0,1,0,354,0
 15604,China,Fujian,5/12/20,356,0,1,0,354,0
+15604,China,Fujian,5/13/20,356,0,1,0,354,0
 15605,China,Gansu,1/22/20,0,0,0,0,0,0
 15605,China,Gansu,1/23/20,2,2,0,0,0,0
 15605,China,Gansu,1/24/20,2,0,0,0,0,0
@@ -4815,6 +4857,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15605,China,Gansu,5/10/20,139,0,2,0,137,0
 15605,China,Gansu,5/11/20,139,0,2,0,137,0
 15605,China,Gansu,5/12/20,139,0,2,0,137,0
+15605,China,Gansu,5/13/20,139,0,2,0,137,0
 15606,China,Guangdong,1/22/20,26,26,0,0,0,0
 15606,China,Guangdong,1/23/20,32,6,0,0,2,2
 15606,China,Guangdong,1/24/20,53,21,0,0,2,0
@@ -4927,6 +4970,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15606,China,Guangdong,5/10/20,1589,0,8,0,1577,1
 15606,China,Guangdong,5/11/20,1589,0,8,0,1578,1
 15606,China,Guangdong,5/12/20,1589,0,8,0,1578,0
+15606,China,Guangdong,5/13/20,1589,0,8,0,1579,1
 15607,China,Guangxi,1/22/20,2,2,0,0,0,0
 15607,China,Guangxi,1/23/20,5,3,0,0,0,0
 15607,China,Guangxi,1/24/20,23,18,0,0,0,0
@@ -5039,6 +5083,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15607,China,Guangxi,5/10/20,254,0,2,0,252,0
 15607,China,Guangxi,5/11/20,254,0,2,0,252,0
 15607,China,Guangxi,5/12/20,254,0,2,0,252,0
+15607,China,Guangxi,5/13/20,254,0,2,0,252,0
 15608,China,Guizhou,1/22/20,1,1,0,0,0,0
 15608,China,Guizhou,1/23/20,3,2,0,0,0,0
 15608,China,Guizhou,1/24/20,3,0,0,0,0,0
@@ -5151,6 +5196,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15608,China,Guizhou,5/10/20,147,0,2,0,145,0
 15608,China,Guizhou,5/11/20,147,0,2,0,145,0
 15608,China,Guizhou,5/12/20,147,0,2,0,145,0
+15608,China,Guizhou,5/13/20,147,0,2,0,145,0
 15609,China,Hainan,1/22/20,4,4,0,0,0,0
 15609,China,Hainan,1/23/20,5,1,0,0,0,0
 15609,China,Hainan,1/24/20,8,3,0,0,0,0
@@ -5263,6 +5309,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15609,China,Hainan,5/10/20,168,0,6,0,162,0
 15609,China,Hainan,5/11/20,168,0,6,0,162,0
 15609,China,Hainan,5/12/20,168,0,6,0,162,0
+15609,China,Hainan,5/13/20,168,0,6,0,162,0
 15610,China,Hebei,1/22/20,1,1,0,0,0,0
 15610,China,Hebei,1/23/20,1,0,1,1,0,0
 15610,China,Hebei,1/24/20,2,1,1,0,0,0
@@ -5375,6 +5422,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15610,China,Hebei,5/10/20,328,0,6,0,321,0
 15610,China,Hebei,5/11/20,328,0,6,0,321,0
 15610,China,Hebei,5/12/20,328,0,6,0,321,0
+15610,China,Hebei,5/13/20,328,0,6,0,321,0
 15611,China,Heilongjiang,1/22/20,0,0,0,0,0,0
 15611,China,Heilongjiang,1/23/20,2,2,0,0,0,0
 15611,China,Heilongjiang,1/24/20,4,2,1,1,0,0
@@ -5487,6 +5535,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15611,China,Heilongjiang,5/10/20,945,1,13,0,904,13
 15611,China,Heilongjiang,5/11/20,945,0,13,0,924,20
 15611,China,Heilongjiang,5/12/20,945,0,13,0,929,5
+15611,China,Heilongjiang,5/13/20,945,0,13,0,930,1
 15612,China,Henan,1/22/20,5,5,0,0,0,0
 15612,China,Henan,1/23/20,5,0,0,0,0,0
 15612,China,Henan,1/24/20,9,4,0,0,0,0
@@ -5599,6 +5648,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15612,China,Henan,5/10/20,1276,0,22,0,1254,0
 15612,China,Henan,5/11/20,1276,0,22,0,1254,0
 15612,China,Henan,5/12/20,1276,0,22,0,1254,0
+15612,China,Henan,5/13/20,1276,0,22,0,1254,0
 344,China,Hong Kong,1/22/20,0,0,0,0,0,0
 344,China,Hong Kong,1/23/20,2,2,0,0,0,0
 344,China,Hong Kong,1/24/20,2,0,0,0,0,0
@@ -5711,6 +5761,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 344,China,Hong Kong,5/10/20,1047,3,4,0,982,15
 344,China,Hong Kong,5/11/20,1047,0,4,0,985,3
 344,China,Hong Kong,5/12/20,1047,0,4,0,991,6
+344,China,Hong Kong,5/13/20,1050,3,4,0,1008,17
 15613,China,Hubei,1/22/20,444,444,17,17,28,28
 15613,China,Hubei,1/23/20,444,0,17,0,28,0
 15613,China,Hubei,1/24/20,549,105,24,7,31,3
@@ -5823,6 +5874,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15613,China,Hubei,5/10/20,68134,5,4512,0,63616,0
 15613,China,Hubei,5/11/20,68134,0,4512,0,63616,0
 15613,China,Hubei,5/12/20,68134,0,4512,0,63616,0
+15613,China,Hubei,5/13/20,68134,0,4512,0,63616,0
 15614,China,Hunan,1/22/20,4,4,0,0,0,0
 15614,China,Hunan,1/23/20,9,5,0,0,0,0
 15614,China,Hunan,1/24/20,24,15,0,0,0,0
@@ -5935,6 +5987,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15614,China,Hunan,5/10/20,1019,0,4,0,1015,0
 15614,China,Hunan,5/11/20,1019,0,4,0,1015,0
 15614,China,Hunan,5/12/20,1019,0,4,0,1015,0
+15614,China,Hunan,5/13/20,1019,0,4,0,1015,0
 15615,China,Inner Mongolia,1/22/20,0,0,0,0,0,0
 15615,China,Inner Mongolia,1/23/20,0,0,0,0,0,0
 15615,China,Inner Mongolia,1/24/20,1,1,0,0,0,0
@@ -6047,6 +6100,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15615,China,Inner Mongolia,5/10/20,208,7,1,0,187,3
 15615,China,Inner Mongolia,5/11/20,209,1,1,0,188,1
 15615,China,Inner Mongolia,5/12/20,209,0,1,0,190,2
+15615,China,Inner Mongolia,5/13/20,209,0,1,0,190,0
 15616,China,Jiangsu,1/22/20,1,1,0,0,0,0
 15616,China,Jiangsu,1/23/20,5,4,0,0,0,0
 15616,China,Jiangsu,1/24/20,9,4,0,0,0,0
@@ -6159,6 +6213,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15616,China,Jiangsu,5/10/20,653,0,0,0,653,1
 15616,China,Jiangsu,5/11/20,653,0,0,0,653,0
 15616,China,Jiangsu,5/12/20,653,0,0,0,653,0
+15616,China,Jiangsu,5/13/20,653,0,0,0,653,0
 15617,China,Jiangxi,1/22/20,2,2,0,0,0,0
 15617,China,Jiangxi,1/23/20,7,5,0,0,0,0
 15617,China,Jiangxi,1/24/20,18,11,0,0,0,0
@@ -6271,6 +6326,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15617,China,Jiangxi,5/10/20,937,0,1,0,936,0
 15617,China,Jiangxi,5/11/20,937,0,1,0,936,0
 15617,China,Jiangxi,5/12/20,937,0,1,0,936,0
+15617,China,Jiangxi,5/13/20,937,0,1,0,936,0
 15618,China,Jilin,1/22/20,0,0,0,0,0,0
 15618,China,Jilin,1/23/20,1,1,0,0,0,0
 15618,China,Jilin,1/24/20,3,2,0,0,0,0
@@ -6383,6 +6439,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15618,China,Jilin,5/10/20,127,3,1,0,105,0
 15618,China,Jilin,5/11/20,127,0,1,0,105,0
 15618,China,Jilin,5/12/20,133,6,1,0,108,3
+15618,China,Jilin,5/13/20,134,1,1,0,108,0
 15619,China,Liaoning,1/22/20,2,2,0,0,0,0
 15619,China,Liaoning,1/23/20,3,1,0,0,0,0
 15619,China,Liaoning,1/24/20,4,1,0,0,0,0
@@ -6495,6 +6552,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15619,China,Liaoning,5/10/20,147,1,2,0,144,0
 15619,China,Liaoning,5/11/20,147,0,2,0,144,0
 15619,China,Liaoning,5/12/20,147,0,2,0,144,0
+15619,China,Liaoning,5/13/20,149,2,2,0,144,0
 446,China,Macau,1/22/20,1,1,0,0,0,0
 446,China,Macau,1/23/20,2,1,0,0,0,0
 446,China,Macau,1/24/20,2,0,0,0,0,0
@@ -6607,6 +6665,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 446,China,Macau,5/10/20,45,0,0,0,41,1
 446,China,Macau,5/11/20,45,0,0,0,42,1
 446,China,Macau,5/12/20,45,0,0,0,42,0
+446,China,Macau,5/13/20,45,0,0,0,43,1
 15620,China,Ningxia,1/22/20,1,1,0,0,0,0
 15620,China,Ningxia,1/23/20,1,0,0,0,0,0
 15620,China,Ningxia,1/24/20,2,1,0,0,0,0
@@ -6719,6 +6778,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15620,China,Ningxia,5/10/20,75,0,0,0,75,0
 15620,China,Ningxia,5/11/20,75,0,0,0,75,0
 15620,China,Ningxia,5/12/20,75,0,0,0,75,0
+15620,China,Ningxia,5/13/20,75,0,0,0,75,0
 15621,China,Qinghai,1/22/20,0,0,0,0,0,0
 15621,China,Qinghai,1/23/20,0,0,0,0,0,0
 15621,China,Qinghai,1/24/20,0,0,0,0,0,0
@@ -6831,6 +6891,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15621,China,Qinghai,5/10/20,18,0,0,0,18,0
 15621,China,Qinghai,5/11/20,18,0,0,0,18,0
 15621,China,Qinghai,5/12/20,18,0,0,0,18,0
+15621,China,Qinghai,5/13/20,18,0,0,0,18,0
 15622,China,Shaanxi,1/22/20,0,0,0,0,0,0
 15622,China,Shaanxi,1/23/20,3,3,0,0,0,0
 15622,China,Shaanxi,1/24/20,5,2,0,0,0,0
@@ -6943,6 +7004,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15622,China,Shaanxi,5/10/20,308,0,3,0,294,1
 15622,China,Shaanxi,5/11/20,308,0,3,0,296,2
 15622,China,Shaanxi,5/12/20,308,0,3,0,297,1
+15622,China,Shaanxi,5/13/20,308,0,3,0,297,0
 15623,China,Shandong,1/22/20,2,2,0,0,0,0
 15623,China,Shandong,1/23/20,6,4,0,0,0,0
 15623,China,Shandong,1/24/20,15,9,0,0,0,0
@@ -7055,6 +7117,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15623,China,Shandong,5/10/20,788,0,7,0,777,1
 15623,China,Shandong,5/11/20,788,0,7,0,777,0
 15623,China,Shandong,5/12/20,788,0,7,0,777,0
+15623,China,Shandong,5/13/20,788,0,7,0,777,0
 15624,China,Shanghai,1/22/20,9,9,0,0,0,0
 15624,China,Shanghai,1/23/20,16,7,0,0,0,0
 15624,China,Shanghai,1/24/20,20,4,0,0,1,1
@@ -7167,6 +7230,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15624,China,Shanghai,5/10/20,659,0,7,0,627,1
 15624,China,Shanghai,5/11/20,659,0,7,0,627,0
 15624,China,Shanghai,5/12/20,660,1,7,0,631,4
+15624,China,Shanghai,5/13/20,660,0,7,0,633,2
 15625,China,Shanxi,1/22/20,1,1,0,0,0,0
 15625,China,Shanxi,1/23/20,1,0,0,0,0,0
 15625,China,Shanxi,1/24/20,1,0,0,0,0,0
@@ -7279,6 +7343,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15625,China,Shanxi,5/10/20,198,0,0,0,197,0
 15625,China,Shanxi,5/11/20,198,0,0,0,197,0
 15625,China,Shanxi,5/12/20,198,0,0,0,198,1
+15625,China,Shanxi,5/13/20,198,0,0,0,198,0
 15626,China,Sichuan,1/22/20,5,5,0,0,0,0
 15626,China,Sichuan,1/23/20,8,3,0,0,0,0
 15626,China,Sichuan,1/24/20,15,7,0,0,0,0
@@ -7391,6 +7456,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15626,China,Sichuan,5/10/20,561,0,3,0,558,0
 15626,China,Sichuan,5/11/20,561,0,3,0,558,0
 15626,China,Sichuan,5/12/20,561,0,3,0,558,0
+15626,China,Sichuan,5/13/20,561,0,3,0,558,0
 15627,China,Tianjin,1/22/20,4,4,0,0,0,0
 15627,China,Tianjin,1/23/20,4,0,0,0,0,0
 15627,China,Tianjin,1/24/20,8,4,0,0,0,0
@@ -7503,6 +7569,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15627,China,Tianjin,5/10/20,191,0,3,0,186,0
 15627,China,Tianjin,5/11/20,191,0,3,0,186,0
 15627,China,Tianjin,5/12/20,191,0,3,0,186,0
+15627,China,Tianjin,5/13/20,191,0,3,0,187,1
 15628,China,Tibet,1/22/20,0,0,0,0,0,0
 15628,China,Tibet,1/23/20,0,0,0,0,0,0
 15628,China,Tibet,1/24/20,0,0,0,0,0,0
@@ -7615,6 +7682,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15628,China,Tibet,5/10/20,1,0,0,0,1,0
 15628,China,Tibet,5/11/20,1,0,0,0,1,0
 15628,China,Tibet,5/12/20,1,0,0,0,1,0
+15628,China,Tibet,5/13/20,1,0,0,0,1,0
 15629,China,Xinjiang,1/22/20,0,0,0,0,0,0
 15629,China,Xinjiang,1/23/20,2,2,0,0,0,0
 15629,China,Xinjiang,1/24/20,2,0,0,0,0,0
@@ -7727,6 +7795,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15629,China,Xinjiang,5/10/20,76,0,3,0,73,0
 15629,China,Xinjiang,5/11/20,76,0,3,0,73,0
 15629,China,Xinjiang,5/12/20,76,0,3,0,73,0
+15629,China,Xinjiang,5/13/20,76,0,3,0,73,0
 15630,China,Yunnan,1/22/20,1,1,0,0,0,0
 15630,China,Yunnan,1/23/20,2,1,0,0,0,0
 15630,China,Yunnan,1/24/20,5,3,0,0,0,0
@@ -7839,6 +7908,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15630,China,Yunnan,5/10/20,185,0,2,0,183,0
 15630,China,Yunnan,5/11/20,185,0,2,0,183,0
 15630,China,Yunnan,5/12/20,185,0,2,0,183,0
+15630,China,Yunnan,5/13/20,185,0,2,0,183,0
 15631,China,Zhejiang,1/22/20,10,10,0,0,0,0
 15631,China,Zhejiang,1/23/20,27,17,0,0,0,0
 15631,China,Zhejiang,1/24/20,43,16,0,0,1,1
@@ -7951,6 +8021,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 15631,China,Zhejiang,5/10/20,1268,0,1,0,1267,0
 15631,China,Zhejiang,5/11/20,1268,0,1,0,1267,0
 15631,China,Zhejiang,5/12/20,1268,0,1,0,1267,0
+15631,China,Zhejiang,5/13/20,1268,0,1,0,1267,0
 170,Colombia,Colombia,1/22/20,0,0,0,0,0,0
 170,Colombia,Colombia,1/23/20,0,0,0,0,0,0
 170,Colombia,Colombia,1/24/20,0,0,0,0,0,0
@@ -8063,6 +8134,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 170,Colombia,Colombia,5/10/20,11063,568,463,18,2705,136
 170,Colombia,Colombia,5/11/20,11613,550,479,16,2825,120
 170,Colombia,Colombia,5/12/20,12272,659,493,14,2971,146
+170,Colombia,Colombia,5/13/20,12930,658,509,16,3133,162
 178,Congo (Brazzaville),Congo (Brazzaville),1/22/20,0,0,0,0,0,0
 178,Congo (Brazzaville),Congo (Brazzaville),1/23/20,0,0,0,0,0,0
 178,Congo (Brazzaville),Congo (Brazzaville),1/24/20,0,0,0,0,0,0
@@ -8175,6 +8247,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 178,Congo (Brazzaville),Congo (Brazzaville),5/10/20,274,0,10,0,33,0
 178,Congo (Brazzaville),Congo (Brazzaville),5/11/20,333,59,11,1,53,20
 178,Congo (Brazzaville),Congo (Brazzaville),5/12/20,333,0,11,0,53,0
+178,Congo (Brazzaville),Congo (Brazzaville),5/13/20,333,0,11,0,53,0
 180,Congo (Kinshasa),Congo (Kinshasa),1/22/20,0,0,0,0,0,0
 180,Congo (Kinshasa),Congo (Kinshasa),1/23/20,0,0,0,0,0,0
 180,Congo (Kinshasa),Congo (Kinshasa),1/24/20,0,0,0,0,0,0
@@ -8287,6 +8360,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 180,Congo (Kinshasa),Congo (Kinshasa),5/10/20,991,54,41,2,136,6
 180,Congo (Kinshasa),Congo (Kinshasa),5/11/20,1024,33,41,0,141,5
 180,Congo (Kinshasa),Congo (Kinshasa),5/12/20,1102,78,44,3,146,5
+180,Congo (Kinshasa),Congo (Kinshasa),5/13/20,1169,67,50,6,148,2
 188,Costa Rica,Costa Rica,1/22/20,0,0,0,0,0,0
 188,Costa Rica,Costa Rica,1/23/20,0,0,0,0,0,0
 188,Costa Rica,Costa Rica,1/24/20,0,0,0,0,0,0
@@ -8399,6 +8473,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 188,Costa Rica,Costa Rica,5/10/20,792,12,7,1,501,21
 188,Costa Rica,Costa Rica,5/11/20,801,9,7,0,517,16
 188,Costa Rica,Costa Rica,5/12/20,804,3,7,0,520,3
+188,Costa Rica,Costa Rica,5/13/20,815,11,8,1,527,7
 384,Cote d'Ivoire,Cote d'Ivoire,1/22/20,0,0,0,0,0,0
 384,Cote d'Ivoire,Cote d'Ivoire,1/23/20,0,0,0,0,0,0
 384,Cote d'Ivoire,Cote d'Ivoire,1/24/20,0,0,0,0,0,0
@@ -8511,6 +8586,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 384,Cote d'Ivoire,Cote d'Ivoire,5/10/20,1700,33,21,0,794,25
 384,Cote d'Ivoire,Cote d'Ivoire,5/11/20,1730,30,21,0,818,24
 384,Cote d'Ivoire,Cote d'Ivoire,5/12/20,1857,127,21,0,820,2
+384,Cote d'Ivoire,Cote d'Ivoire,5/13/20,1912,55,24,3,902,82
 191,Croatia,Croatia,1/22/20,0,0,0,0,0,0
 191,Croatia,Croatia,1/23/20,0,0,0,0,0,0
 191,Croatia,Croatia,1/24/20,0,0,0,0,0,0
@@ -8623,6 +8699,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 191,Croatia,Croatia,5/10/20,2187,11,90,3,1764,38
 191,Croatia,Croatia,5/11/20,2196,9,91,1,1784,20
 191,Croatia,Croatia,5/12/20,2207,11,91,0,1808,24
+191,Croatia,Croatia,5/13/20,2213,6,94,3,1834,26
 9999,Diamond Princess,Diamond Princess,1/22/20,0,0,0,0,0,0
 9999,Diamond Princess,Diamond Princess,1/23/20,0,0,0,0,0,0
 9999,Diamond Princess,Diamond Princess,1/24/20,0,0,0,0,0,0
@@ -8735,6 +8812,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 9999,Diamond Princess,Diamond Princess,5/10/20,712,0,13,0,651,6
 9999,Diamond Princess,Diamond Princess,5/11/20,712,0,13,0,651,0
 9999,Diamond Princess,Diamond Princess,5/12/20,712,0,13,0,651,0
+9999,Diamond Princess,Diamond Princess,5/13/20,712,0,13,0,651,0
 192,Cuba,Cuba,1/22/20,0,0,0,0,0,0
 192,Cuba,Cuba,1/23/20,0,0,0,0,0,0
 192,Cuba,Cuba,1/24/20,0,0,0,0,0,0
@@ -8847,6 +8925,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 192,Cuba,Cuba,5/10/20,1766,12,77,3,1193,53
 192,Cuba,Cuba,5/11/20,1783,17,77,0,1229,36
 192,Cuba,Cuba,5/12/20,1804,21,78,1,1277,48
+192,Cuba,Cuba,5/13/20,1810,6,79,1,1326,49
 196,Cyprus,Cyprus,1/22/20,0,0,0,0,0,0
 196,Cyprus,Cyprus,1/23/20,0,0,0,0,0,0
 196,Cyprus,Cyprus,1/24/20,0,0,0,0,0,0
@@ -8959,6 +9038,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 196,Cyprus,Cyprus,5/10/20,898,6,16,1,401,0
 196,Cyprus,Cyprus,5/11/20,901,3,16,0,401,0
 196,Cyprus,Cyprus,5/12/20,903,2,16,0,449,48
+196,Cyprus,Cyprus,5/13/20,905,2,17,1,449,0
 203,Czechia,Czechia,1/22/20,0,0,0,0,0,0
 203,Czechia,Czechia,1/23/20,0,0,0,0,0,0
 203,Czechia,Czechia,1/24/20,0,0,0,0,0,0
@@ -9071,6 +9151,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 203,Czechia,Czechia,5/10/20,8123,28,280,4,4474,27
 203,Czechia,Czechia,5/11/20,8176,53,282,2,4711,237
 203,Czechia,Czechia,5/12/20,8221,45,283,1,4889,178
+203,Czechia,Czechia,5/13/20,8269,48,290,7,5047,158
 234,Denmark,Faroe Islands,1/22/20,0,0,0,0,0,0
 234,Denmark,Faroe Islands,1/23/20,0,0,0,0,0,0
 234,Denmark,Faroe Islands,1/24/20,0,0,0,0,0,0
@@ -9183,6 +9264,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 234,Denmark,Faroe Islands,5/10/20,187,0,0,0,187,0
 234,Denmark,Faroe Islands,5/11/20,187,0,0,0,187,0
 234,Denmark,Faroe Islands,5/12/20,187,0,0,0,187,0
+234,Denmark,Faroe Islands,5/13/20,187,0,0,0,187,0
 304,Denmark,Greenland,1/22/20,0,0,0,0,0,0
 304,Denmark,Greenland,1/23/20,0,0,0,0,0,0
 304,Denmark,Greenland,1/24/20,0,0,0,0,0,0
@@ -9295,6 +9377,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 304,Denmark,Greenland,5/10/20,11,0,0,0,11,0
 304,Denmark,Greenland,5/11/20,11,0,0,0,11,0
 304,Denmark,Greenland,5/12/20,11,0,0,0,11,0
+304,Denmark,Greenland,5/13/20,11,0,0,0,11,0
 208,Denmark,Denmark,1/22/20,0,0,0,0,0,0
 208,Denmark,Denmark,1/23/20,0,0,0,0,0,0
 208,Denmark,Denmark,1/24/20,0,0,0,0,0,0
@@ -9407,6 +9490,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 208,Denmark,Denmark,5/10/20,10429,110,529,3,8217,124
 208,Denmark,Denmark,5/11/20,10513,84,533,4,8328,111
 208,Denmark,Denmark,5/12/20,10591,78,527,0,8580,252
+208,Denmark,Denmark,5/13/20,10667,76,533,6,8663,83
 262,Djibouti,Djibouti,1/22/20,0,0,0,0,0,0
 262,Djibouti,Djibouti,1/23/20,0,0,0,0,0,0
 262,Djibouti,Djibouti,1/24/20,0,0,0,0,0,0
@@ -9519,6 +9603,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 262,Djibouti,Djibouti,5/10/20,1210,21,3,0,847,13
 262,Djibouti,Djibouti,5/11/20,1227,17,3,0,872,25
 262,Djibouti,Djibouti,5/12/20,1256,29,3,0,886,14
+262,Djibouti,Djibouti,5/13/20,1268,12,3,0,900,14
 214,Dominican Republic,Dominican Republic,1/22/20,0,0,0,0,0,0
 214,Dominican Republic,Dominican Republic,1/23/20,0,0,0,0,0,0
 214,Dominican Republic,Dominican Republic,1/24/20,0,0,0,0,0,0
@@ -9631,6 +9716,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 214,Dominican Republic,Dominican Republic,5/10/20,10347,465,388,3,2763,179
 214,Dominican Republic,Dominican Republic,5/11/20,10634,287,393,5,2870,107
 214,Dominican Republic,Dominican Republic,5/12/20,10900,266,402,9,3221,351
+214,Dominican Republic,Dominican Republic,5/13/20,11196,296,409,7,3221,0
 218,Ecuador,Ecuador,1/22/20,0,0,0,0,0,0
 218,Ecuador,Ecuador,1/23/20,0,0,0,0,0,0
 218,Ecuador,Ecuador,1/24/20,0,0,0,0,0,0
@@ -9743,6 +9829,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 218,Ecuador,Ecuador,5/10/20,29559,488,2127,410,3433,0
 218,Ecuador,Ecuador,5/11/20,29509,0,2145,18,3433,0
 218,Ecuador,Ecuador,5/12/20,30419,910,2327,182,3433,0
+218,Ecuador,Ecuador,5/13/20,30486,67,2334,7,3433,0
 818,Egypt,Egypt,1/22/20,0,0,0,0,0,0
 818,Egypt,Egypt,1/23/20,0,0,0,0,0,0
 818,Egypt,Egypt,1/24/20,0,0,0,0,0,0
@@ -9855,6 +9942,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 818,Egypt,Egypt,5/10/20,9400,436,525,11,2075,73
 818,Egypt,Egypt,5/11/20,9746,346,533,8,2172,97
 818,Egypt,Egypt,5/12/20,10093,347,544,11,2326,154
+818,Egypt,Egypt,5/13/20,10431,338,556,12,2486,160
 222,El Salvador,El Salvador,1/22/20,0,0,0,0,0,0
 222,El Salvador,El Salvador,1/23/20,0,0,0,0,0,0
 222,El Salvador,El Salvador,1/24/20,0,0,0,0,0,0
@@ -9967,6 +10055,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 222,El Salvador,El Salvador,5/10/20,889,105,17,0,293,17
 222,El Salvador,El Salvador,5/11/20,958,69,18,1,325,32
 222,El Salvador,El Salvador,5/12/20,998,40,20,2,349,24
+222,El Salvador,El Salvador,5/13/20,1037,39,20,0,374,25
 226,Equatorial Guinea,Equatorial Guinea,1/22/20,0,0,0,0,0,0
 226,Equatorial Guinea,Equatorial Guinea,1/23/20,0,0,0,0,0,0
 226,Equatorial Guinea,Equatorial Guinea,1/24/20,0,0,0,0,0,0
@@ -10079,6 +10168,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 226,Equatorial Guinea,Equatorial Guinea,5/10/20,439,0,4,0,13,0
 226,Equatorial Guinea,Equatorial Guinea,5/11/20,439,0,4,0,13,0
 226,Equatorial Guinea,Equatorial Guinea,5/12/20,439,0,4,0,13,0
+226,Equatorial Guinea,Equatorial Guinea,5/13/20,522,83,6,2,13,0
 232,Eritrea,Eritrea,1/22/20,0,0,0,0,0,0
 232,Eritrea,Eritrea,1/23/20,0,0,0,0,0,0
 232,Eritrea,Eritrea,1/24/20,0,0,0,0,0,0
@@ -10191,6 +10281,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 232,Eritrea,Eritrea,5/10/20,39,0,0,0,37,0
 232,Eritrea,Eritrea,5/11/20,39,0,0,0,38,1
 232,Eritrea,Eritrea,5/12/20,39,0,0,0,38,0
+232,Eritrea,Eritrea,5/13/20,39,0,0,0,38,0
 233,Estonia,Estonia,1/22/20,0,0,0,0,0,0
 233,Estonia,Estonia,1/23/20,0,0,0,0,0,0
 233,Estonia,Estonia,1/24/20,0,0,0,0,0,0
@@ -10303,6 +10394,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 233,Estonia,Estonia,5/10/20,1739,6,60,0,750,3
 233,Estonia,Estonia,5/11/20,1741,2,61,1,751,1
 233,Estonia,Estonia,5/12/20,1746,5,61,0,777,26
+233,Estonia,Estonia,5/13/20,1751,5,61,0,777,0
 748,Eswatini,Eswatini,1/22/20,0,0,0,0,0,0
 748,Eswatini,Eswatini,1/23/20,0,0,0,0,0,0
 748,Eswatini,Eswatini,1/24/20,0,0,0,0,0,0
@@ -10415,6 +10507,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 748,Eswatini,Eswatini,5/10/20,172,9,2,0,27,13
 748,Eswatini,Eswatini,5/11/20,175,3,2,0,28,1
 748,Eswatini,Eswatini,5/12/20,184,9,2,0,28,0
+748,Eswatini,Eswatini,5/13/20,187,3,2,0,48,20
 231,Ethiopia,Ethiopia,1/22/20,0,0,0,0,0,0
 231,Ethiopia,Ethiopia,1/23/20,0,0,0,0,0,0
 231,Ethiopia,Ethiopia,1/24/20,0,0,0,0,0,0
@@ -10527,6 +10620,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 231,Ethiopia,Ethiopia,5/10/20,239,29,5,0,99,2
 231,Ethiopia,Ethiopia,5/11/20,250,11,5,0,105,6
 231,Ethiopia,Ethiopia,5/12/20,261,11,5,0,106,1
+231,Ethiopia,Ethiopia,5/13/20,263,2,5,0,108,2
 242,Fiji,Fiji,1/22/20,0,0,0,0,0,0
 242,Fiji,Fiji,1/23/20,0,0,0,0,0,0
 242,Fiji,Fiji,1/24/20,0,0,0,0,0,0
@@ -10639,6 +10733,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 242,Fiji,Fiji,5/10/20,18,0,0,0,14,0
 242,Fiji,Fiji,5/11/20,18,0,0,0,14,0
 242,Fiji,Fiji,5/12/20,18,0,0,0,14,0
+242,Fiji,Fiji,5/13/20,18,0,0,0,14,0
 246,Finland,Finland,1/22/20,0,0,0,0,0,0
 246,Finland,Finland,1/23/20,0,0,0,0,0,0
 246,Finland,Finland,1/24/20,0,0,0,0,0,0
@@ -10751,6 +10846,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 246,Finland,Finland,5/10/20,5962,82,267,2,4000,0
 246,Finland,Finland,5/11/20,5984,22,271,4,4000,0
 246,Finland,Finland,5/12/20,6003,19,275,4,4300,300
+246,Finland,Finland,5/13/20,6054,51,284,9,4300,0
 254,France,French Guiana,1/22/20,0,0,0,0,0,0
 254,France,French Guiana,1/23/20,0,0,0,0,0,0
 254,France,French Guiana,1/24/20,0,0,0,0,0,0
@@ -10863,6 +10959,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 254,France,French Guiana,5/10/20,144,3,1,0,122,3
 254,France,French Guiana,5/11/20,144,0,1,0,122,0
 254,France,French Guiana,5/12/20,144,0,1,0,122,0
+254,France,French Guiana,5/13/20,153,9,1,0,124,2
 258,France,French Polynesia,1/22/20,0,0,0,0,0,0
 258,France,French Polynesia,1/23/20,0,0,0,0,0,0
 258,France,French Polynesia,1/24/20,0,0,0,0,0,0
@@ -10975,6 +11072,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 258,France,French Polynesia,5/10/20,60,0,0,0,56,0
 258,France,French Polynesia,5/11/20,60,0,0,0,56,0
 258,France,French Polynesia,5/12/20,60,0,0,0,58,2
+258,France,French Polynesia,5/13/20,60,0,0,0,58,0
 312,France,Guadeloupe,1/22/20,0,0,0,0,0,0
 312,France,Guadeloupe,1/23/20,0,0,0,0,0,0
 312,France,Guadeloupe,1/24/20,0,0,0,0,0,0
@@ -11087,6 +11185,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 312,France,Guadeloupe,5/10/20,154,0,13,0,104,0
 312,France,Guadeloupe,5/11/20,154,0,13,0,104,0
 312,France,Guadeloupe,5/12/20,155,1,13,0,109,5
+312,France,Guadeloupe,5/13/20,155,0,13,0,109,0
 175,France,Mayotte,1/22/20,0,0,0,0,0,0
 175,France,Mayotte,1/23/20,0,0,0,0,0,0
 175,France,Mayotte,1/24/20,0,0,0,0,0,0
@@ -11199,6 +11298,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 175,France,Mayotte,5/10/20,1023,35,11,0,492,0
 175,France,Mayotte,5/11/20,1023,0,11,0,492,0
 175,France,Mayotte,5/12/20,1095,72,12,1,492,0
+175,France,Mayotte,5/13/20,1143,48,14,2,627,135
 540,France,New Caledonia,1/22/20,0,0,0,0,0,0
 540,France,New Caledonia,1/23/20,0,0,0,0,0,0
 540,France,New Caledonia,1/24/20,0,0,0,0,0,0
@@ -11311,6 +11411,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 540,France,New Caledonia,5/10/20,18,0,0,0,18,0
 540,France,New Caledonia,5/11/20,18,0,0,0,18,0
 540,France,New Caledonia,5/12/20,18,0,0,0,18,0
+540,France,New Caledonia,5/13/20,18,0,0,0,18,0
 638,France,Reunion,1/22/20,0,0,0,0,0,0
 638,France,Reunion,1/23/20,0,0,0,0,0,0
 638,France,Reunion,1/24/20,0,0,0,0,0,0
@@ -11423,6 +11524,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 638,France,Reunion,5/10/20,436,5,0,0,354,0
 638,France,Reunion,5/11/20,436,0,0,0,354,0
 638,France,Reunion,5/12/20,437,1,0,0,354,0
+638,France,Reunion,5/13/20,439,2,0,0,354,0
 652,France,Saint Barthelemy,1/22/20,0,0,0,0,0,0
 652,France,Saint Barthelemy,1/23/20,0,0,0,0,0,0
 652,France,Saint Barthelemy,1/24/20,0,0,0,0,0,0
@@ -11535,6 +11637,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 652,France,Saint Barthelemy,5/10/20,6,0,0,0,6,0
 652,France,Saint Barthelemy,5/11/20,6,0,0,0,6,0
 652,France,Saint Barthelemy,5/12/20,6,0,0,0,6,0
+652,France,Saint Barthelemy,5/13/20,6,0,0,0,6,0
 663,France,St Martin,1/22/20,0,0,0,0,0,0
 663,France,St Martin,1/23/20,0,0,0,0,0,0
 663,France,St Martin,1/24/20,0,0,0,0,0,0
@@ -11647,6 +11750,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 663,France,St Martin,5/10/20,39,0,3,0,30,0
 663,France,St Martin,5/11/20,39,0,3,0,30,0
 663,France,St Martin,5/12/20,39,0,3,0,30,0
+663,France,St Martin,5/13/20,39,0,3,0,30,0
 474,France,Martinique,1/22/20,0,0,0,0,0,0
 474,France,Martinique,1/23/20,0,0,0,0,0,0
 474,France,Martinique,1/24/20,0,0,0,0,0,0
@@ -11759,6 +11863,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 474,France,Martinique,5/10/20,186,0,14,0,83,0
 474,France,Martinique,5/11/20,187,1,14,0,83,0
 474,France,Martinique,5/12/20,187,0,14,0,91,8
+474,France,Martinique,5/13/20,189,2,14,0,91,0
 250,France,France,1/22/20,0,0,0,0,0,0
 250,France,France,1/23/20,0,0,0,0,0,0
 250,France,France,1/24/20,2,2,0,0,0,0
@@ -11871,6 +11976,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 250,France,France,5/10/20,175027,269,26341,70,55062,176
 250,France,France,5/11/20,175479,452,26604,263,55569,507
 250,France,France,5/12/20,176207,728,26951,347,56617,1048
+250,France,France,5/13/20,175981,0,27032,81,57368,751
 266,Gabon,Gabon,1/22/20,0,0,0,0,0,0
 266,Gabon,Gabon,1/23/20,0,0,0,0,0,0
 266,Gabon,Gabon,1/24/20,0,0,0,0,0,0
@@ -11983,6 +12089,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 266,Gabon,Gabon,5/10/20,661,0,8,0,110,0
 266,Gabon,Gabon,5/11/20,802,141,9,1,127,17
 266,Gabon,Gabon,5/12/20,863,61,9,0,137,10
+266,Gabon,Gabon,5/13/20,1004,141,9,0,152,15
 270,Gambia,Gambia,1/22/20,0,0,0,0,0,0
 270,Gambia,Gambia,1/23/20,0,0,0,0,0,0
 270,Gambia,Gambia,1/24/20,0,0,0,0,0,0
@@ -12095,6 +12202,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 270,Gambia,Gambia,5/10/20,20,0,1,0,9,0
 270,Gambia,Gambia,5/11/20,22,2,1,0,10,1
 270,Gambia,Gambia,5/12/20,22,0,1,0,10,0
+270,Gambia,Gambia,5/13/20,23,1,1,0,10,0
 268,Georgia,Georgia,1/22/20,0,0,0,0,0,0
 268,Georgia,Georgia,1/23/20,0,0,0,0,0,0
 268,Georgia,Georgia,1/24/20,0,0,0,0,0,0
@@ -12207,6 +12315,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 268,Georgia,Georgia,5/10/20,635,9,10,0,309,12
 268,Georgia,Georgia,5/11/20,638,3,11,1,317,8
 268,Georgia,Georgia,5/12/20,642,4,11,0,349,32
+268,Georgia,Georgia,5/13/20,647,5,11,0,372,23
 276,Germany,Germany,1/22/20,0,0,0,0,0,0
 276,Germany,Germany,1/23/20,0,0,0,0,0,0
 276,Germany,Germany,1/24/20,0,0,0,0,0,0
@@ -12319,6 +12428,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 276,Germany,Germany,5/10/20,171879,555,7569,20,144400,1100
 276,Germany,Germany,5/11/20,172576,697,7661,92,145617,1217
 276,Germany,Germany,5/12/20,173171,595,7738,77,147200,1583
+276,Germany,Germany,5/13/20,174098,927,7861,123,148700,1500
 288,Ghana,Ghana,1/22/20,0,0,0,0,0,0
 288,Ghana,Ghana,1/23/20,0,0,0,0,0,0
 288,Ghana,Ghana,1/24/20,0,0,0,0,0,0
@@ -12431,6 +12541,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 288,Ghana,Ghana,5/10/20,4263,0,22,0,378,0
 288,Ghana,Ghana,5/11/20,4700,437,22,0,494,116
 288,Ghana,Ghana,5/12/20,5127,427,22,0,494,0
+288,Ghana,Ghana,5/13/20,5408,281,24,2,514,20
 300,Greece,Greece,1/22/20,0,0,0,0,0,0
 300,Greece,Greece,1/23/20,0,0,0,0,0,0
 300,Greece,Greece,1/24/20,0,0,0,0,0,0
@@ -12543,6 +12654,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 300,Greece,Greece,5/10/20,2716,6,151,0,1374,0
 300,Greece,Greece,5/11/20,2726,10,151,0,1374,0
 300,Greece,Greece,5/12/20,2744,18,152,1,1374,0
+300,Greece,Greece,5/13/20,2760,16,155,3,1374,0
 320,Guatemala,Guatemala,1/22/20,0,0,0,0,0,0
 320,Guatemala,Guatemala,1/23/20,0,0,0,0,0,0
 320,Guatemala,Guatemala,1/24/20,0,0,0,0,0,0
@@ -12655,6 +12767,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 320,Guatemala,Guatemala,5/10/20,1052,85,26,2,110,6
 320,Guatemala,Guatemala,5/11/20,1114,62,26,0,111,1
 320,Guatemala,Guatemala,5/12/20,1199,85,27,1,120,9
+320,Guatemala,Guatemala,5/13/20,1342,143,29,2,121,1
 324,Guinea,Guinea,1/22/20,0,0,0,0,0,0
 324,Guinea,Guinea,1/23/20,0,0,0,0,0,0
 324,Guinea,Guinea,1/24/20,0,0,0,0,0,0
@@ -12767,6 +12880,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 324,Guinea,Guinea,5/10/20,2146,104,11,0,714,16
 324,Guinea,Guinea,5/11/20,2146,0,11,0,714,0
 324,Guinea,Guinea,5/12/20,2298,152,11,0,816,102
+324,Guinea,Guinea,5/13/20,2374,76,14,3,856,40
 328,Guyana,Guyana,1/22/20,0,0,0,0,0,0
 328,Guyana,Guyana,1/23/20,0,0,0,0,0,0
 328,Guyana,Guyana,1/24/20,0,0,0,0,0,0
@@ -12879,6 +12993,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 328,Guyana,Guyana,5/10/20,104,10,10,0,35,0
 328,Guyana,Guyana,5/11/20,109,5,10,0,36,1
 328,Guyana,Guyana,5/12/20,113,4,10,0,36,0
+328,Guyana,Guyana,5/13/20,113,0,10,0,41,5
 332,Haiti,Haiti,1/22/20,0,0,0,0,0,0
 332,Haiti,Haiti,1/23/20,0,0,0,0,0,0
 332,Haiti,Haiti,1/24/20,0,0,0,0,0,0
@@ -12991,6 +13106,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 332,Haiti,Haiti,5/10/20,182,31,15,3,17,0
 332,Haiti,Haiti,5/11/20,209,27,16,1,17,0
 332,Haiti,Haiti,5/12/20,209,0,16,0,17,0
+332,Haiti,Haiti,5/13/20,234,25,18,2,17,0
 336,Holy See,Holy See,1/22/20,0,0,0,0,0,0
 336,Holy See,Holy See,1/23/20,0,0,0,0,0,0
 336,Holy See,Holy See,1/24/20,0,0,0,0,0,0
@@ -13103,6 +13219,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 336,Holy See,Holy See,5/10/20,12,0,0,0,2,0
 336,Holy See,Holy See,5/11/20,12,0,0,0,2,0
 336,Holy See,Holy See,5/12/20,12,0,0,0,2,0
+336,Holy See,Holy See,5/13/20,12,0,0,0,2,0
 340,Honduras,Honduras,1/22/20,0,0,0,0,0,0
 340,Honduras,Honduras,1/23/20,0,0,0,0,0,0
 340,Honduras,Honduras,1/24/20,0,0,0,0,0,0
@@ -13215,6 +13332,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 340,Honduras,Honduras,5/10/20,1972,142,108,0,203,8
 340,Honduras,Honduras,5/11/20,2100,128,116,8,206,3
 340,Honduras,Honduras,5/12/20,2080,0,121,5,211,5
+340,Honduras,Honduras,5/13/20,2255,175,123,2,237,26
 348,Hungary,Hungary,1/22/20,0,0,0,0,0,0
 348,Hungary,Hungary,1/23/20,0,0,0,0,0,0
 348,Hungary,Hungary,1/24/20,0,0,0,0,0,0
@@ -13327,6 +13445,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 348,Hungary,Hungary,5/10/20,3263,50,413,8,933,29
 348,Hungary,Hungary,5/11/20,3284,21,421,8,958,25
 348,Hungary,Hungary,5/12/20,3313,29,425,4,1007,49
+348,Hungary,Hungary,5/13/20,3341,28,430,5,1102,95
 352,Iceland,Iceland,1/22/20,0,0,0,0,0,0
 352,Iceland,Iceland,1/23/20,0,0,0,0,0,0
 352,Iceland,Iceland,1/24/20,0,0,0,0,0,0
@@ -13439,6 +13558,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 352,Iceland,Iceland,5/10/20,1801,0,10,0,1773,0
 352,Iceland,Iceland,5/11/20,1801,0,10,0,1773,0
 352,Iceland,Iceland,5/12/20,1801,0,10,0,1776,3
+352,Iceland,Iceland,5/13/20,1802,1,10,0,1780,4
 356,India,India,1/22/20,0,0,0,0,0,0
 356,India,India,1/23/20,0,0,0,0,0,0
 356,India,India,1/24/20,0,0,0,0,0,0
@@ -13551,6 +13671,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 356,India,India,5/10/20,67161,4353,2212,111,20969,1668
 356,India,India,5/11/20,70768,3607,2294,82,22549,1580
 356,India,India,5/12/20,74292,3524,2415,121,24420,1871
+356,India,India,5/13/20,78055,3763,2551,136,26400,1980
 360,Indonesia,Indonesia,1/22/20,0,0,0,0,0,0
 360,Indonesia,Indonesia,1/23/20,0,0,0,0,0,0
 360,Indonesia,Indonesia,1/24/20,0,0,0,0,0,0
@@ -13663,6 +13784,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 360,Indonesia,Indonesia,5/10/20,14032,387,973,14,2698,91
 360,Indonesia,Indonesia,5/11/20,14265,233,991,18,2881,183
 360,Indonesia,Indonesia,5/12/20,14749,484,1007,16,3063,182
+360,Indonesia,Indonesia,5/13/20,15438,689,1028,21,3287,224
 364,Iran,Iran,1/22/20,0,0,0,0,0,0
 364,Iran,Iran,1/23/20,0,0,0,0,0,0
 364,Iran,Iran,1/24/20,0,0,0,0,0,0
@@ -13775,6 +13897,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 364,Iran,Iran,5/10/20,107603,1383,6640,51,86143,1079
 364,Iran,Iran,5/11/20,109286,1683,6685,45,87422,1279
 364,Iran,Iran,5/12/20,110767,1481,6733,48,88357,935
+364,Iran,Iran,5/13/20,112725,1958,6783,50,89428,1071
 368,Iraq,Iraq,1/22/20,0,0,0,0,0,0
 368,Iraq,Iraq,1/23/20,0,0,0,0,0,0
 368,Iraq,Iraq,1/24/20,0,0,0,0,0,0
@@ -13887,6 +14010,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 368,Iraq,Iraq,5/10/20,2767,88,109,2,1734,32
 368,Iraq,Iraq,5/11/20,2818,51,110,1,1790,56
 368,Iraq,Iraq,5/12/20,2913,95,112,2,1903,113
+368,Iraq,Iraq,5/13/20,3032,119,115,3,1966,63
 372,Ireland,Ireland,1/22/20,0,0,0,0,0,0
 372,Ireland,Ireland,1/23/20,0,0,0,0,0,0
 372,Ireland,Ireland,1/24/20,0,0,0,0,0,0
@@ -13999,6 +14123,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 372,Ireland,Ireland,5/10/20,22996,236,1458,12,17110,0
 372,Ireland,Ireland,5/11/20,23135,139,1467,9,17110,0
 372,Ireland,Ireland,5/12/20,23242,107,1488,21,17110,0
+372,Ireland,Ireland,5/13/20,23401,159,1497,9,19470,2360
 376,Israel,Israel,1/22/20,0,0,0,0,0,0
 376,Israel,Israel,1/23/20,0,0,0,0,0,0
 376,Israel,Israel,1/24/20,0,0,0,0,0,0
@@ -14111,6 +14236,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 376,Israel,Israel,5/10/20,16477,23,252,5,11430,54
 376,Israel,Israel,5/11/20,16506,29,258,6,11843,413
 376,Israel,Israel,5/12/20,16529,23,260,2,12083,240
+376,Israel,Israel,5/13/20,16548,19,264,4,12232,149
 380,Italy,Italy,1/22/20,0,0,0,0,0,0
 380,Italy,Italy,1/23/20,0,0,0,0,0,0
 380,Italy,Italy,1/24/20,0,0,0,0,0,0
@@ -14223,6 +14349,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 380,Italy,Italy,5/10/20,219070,802,30560,165,105186,2155
 380,Italy,Italy,5/11/20,219814,744,30739,179,106587,1401
 380,Italy,Italy,5/12/20,221216,1402,30911,172,109039,2452
+380,Italy,Italy,5/13/20,222104,888,31106,195,112541,3502
 388,Jamaica,Jamaica,1/22/20,0,0,0,0,0,0
 388,Jamaica,Jamaica,1/23/20,0,0,0,0,0,0
 388,Jamaica,Jamaica,1/24/20,0,0,0,0,0,0
@@ -14335,6 +14462,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 388,Jamaica,Jamaica,5/10/20,502,12,9,0,90,28
 388,Jamaica,Jamaica,5/11/20,505,3,9,0,90,0
 388,Jamaica,Jamaica,5/12/20,507,2,9,0,100,10
+388,Jamaica,Jamaica,5/13/20,509,2,9,0,113,13
 392,Japan,Japan,1/22/20,2,2,0,0,0,0
 392,Japan,Japan,1/23/20,2,0,0,0,0,0
 392,Japan,Japan,1/24/20,2,0,0,0,0,0
@@ -14447,6 +14575,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 392,Japan,Japan,5/10/20,15777,114,624,17,8127,2221
 392,Japan,Japan,5/11/20,15847,70,633,9,8293,166
 392,Japan,Japan,5/12/20,15968,121,657,24,8531,238
+392,Japan,Japan,5/13/20,16049,81,678,21,8920,389
 400,Jordan,Jordan,1/22/20,0,0,0,0,0,0
 400,Jordan,Jordan,1/23/20,0,0,0,0,0,0
 400,Jordan,Jordan,1/24/20,0,0,0,0,0,0
@@ -14559,6 +14688,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 400,Jordan,Jordan,5/10/20,540,18,9,0,389,2
 400,Jordan,Jordan,5/11/20,562,22,9,0,390,1
 400,Jordan,Jordan,5/12/20,576,14,9,0,390,0
+400,Jordan,Jordan,5/13/20,582,6,9,0,392,2
 398,Kazakhstan,Kazakhstan,1/22/20,0,0,0,0,0,0
 398,Kazakhstan,Kazakhstan,1/23/20,0,0,0,0,0,0
 398,Kazakhstan,Kazakhstan,1/24/20,0,0,0,0,0,0
@@ -14671,6 +14801,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 398,Kazakhstan,Kazakhstan,5/10/20,5090,115,31,0,1941,165
 398,Kazakhstan,Kazakhstan,5/11/20,5207,117,32,1,2074,133
 398,Kazakhstan,Kazakhstan,5/12/20,5279,72,32,0,2223,149
+398,Kazakhstan,Kazakhstan,5/13/20,5417,138,32,0,2408,185
 404,Kenya,Kenya,1/22/20,0,0,0,0,0,0
 404,Kenya,Kenya,1/23/20,0,0,0,0,0,0
 404,Kenya,Kenya,1/24/20,0,0,0,0,0,0
@@ -14783,6 +14914,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 404,Kenya,Kenya,5/10/20,672,23,32,2,239,32
 404,Kenya,Kenya,5/11/20,700,28,33,1,251,12
 404,Kenya,Kenya,5/12/20,715,15,36,3,259,8
+404,Kenya,Kenya,5/13/20,737,22,40,4,281,22
 410,"Korea, South","Korea, South",1/22/20,1,1,0,0,0,0
 410,"Korea, South","Korea, South",1/23/20,1,0,0,0,0,0
 410,"Korea, South","Korea, South",1/24/20,2,1,0,0,0,0
@@ -14895,6 +15027,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 410,"Korea, South","Korea, South",5/10/20,10909,35,256,0,9632,22
 410,"Korea, South","Korea, South",5/11/20,10936,27,258,2,9670,38
 410,"Korea, South","Korea, South",5/12/20,10962,26,259,1,9695,25
+410,"Korea, South","Korea, South",5/13/20,10991,29,260,1,9762,67
 414,Kuwait,Kuwait,1/22/20,0,0,0,0,0,0
 414,Kuwait,Kuwait,1/23/20,0,0,0,0,0,0
 414,Kuwait,Kuwait,1/24/20,0,0,0,0,0,0
@@ -15007,6 +15140,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 414,Kuwait,Kuwait,5/10/20,8688,1065,58,9,2729,107
 414,Kuwait,Kuwait,5/11/20,9286,598,65,7,2907,178
 414,Kuwait,Kuwait,5/12/20,10277,991,75,10,3101,194
+414,Kuwait,Kuwait,5/13/20,11028,751,82,7,3263,162
 417,Kyrgyzstan,Kyrgyzstan,1/22/20,0,0,0,0,0,0
 417,Kyrgyzstan,Kyrgyzstan,1/23/20,0,0,0,0,0,0
 417,Kyrgyzstan,Kyrgyzstan,1/24/20,0,0,0,0,0,0
@@ -15119,6 +15253,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 417,Kyrgyzstan,Kyrgyzstan,5/10/20,1002,71,12,0,675,17
 417,Kyrgyzstan,Kyrgyzstan,5/11/20,1016,14,12,0,688,13
 417,Kyrgyzstan,Kyrgyzstan,5/12/20,1037,21,12,0,709,21
+417,Kyrgyzstan,Kyrgyzstan,5/13/20,1044,7,12,0,726,17
 428,Latvia,Latvia,1/22/20,0,0,0,0,0,0
 428,Latvia,Latvia,1/23/20,0,0,0,0,0,0
 428,Latvia,Latvia,1/24/20,0,0,0,0,0,0
@@ -15231,6 +15366,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 428,Latvia,Latvia,5/10/20,939,9,18,0,464,0
 428,Latvia,Latvia,5/11/20,946,7,18,0,464,0
 428,Latvia,Latvia,5/12/20,950,4,18,0,627,163
+428,Latvia,Latvia,5/13/20,951,1,19,1,627,0
 422,Lebanon,Lebanon,1/22/20,0,0,0,0,0,0
 422,Lebanon,Lebanon,1/23/20,0,0,0,0,0,0
 422,Lebanon,Lebanon,1/24/20,0,0,0,0,0,0
@@ -15343,6 +15479,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 422,Lebanon,Lebanon,5/10/20,845,36,26,0,234,0
 422,Lebanon,Lebanon,5/11/20,859,14,26,0,234,0
 422,Lebanon,Lebanon,5/12/20,870,11,26,0,234,0
+422,Lebanon,Lebanon,5/13/20,878,8,26,0,236,2
 430,Liberia,Liberia,1/22/20,0,0,0,0,0,0
 430,Liberia,Liberia,1/23/20,0,0,0,0,0,0
 430,Liberia,Liberia,1/24/20,0,0,0,0,0,0
@@ -15455,6 +15592,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 430,Liberia,Liberia,5/10/20,199,0,20,0,79,0
 430,Liberia,Liberia,5/11/20,211,12,20,0,85,6
 430,Liberia,Liberia,5/12/20,211,0,20,0,85,0
+430,Liberia,Liberia,5/13/20,213,2,20,0,101,16
 438,Liechtenstein,Liechtenstein,1/22/20,0,0,0,0,0,0
 438,Liechtenstein,Liechtenstein,1/23/20,0,0,0,0,0,0
 438,Liechtenstein,Liechtenstein,1/24/20,0,0,0,0,0,0
@@ -15567,6 +15705,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 438,Liechtenstein,Liechtenstein,5/10/20,82,0,1,0,55,0
 438,Liechtenstein,Liechtenstein,5/11/20,82,0,1,0,55,0
 438,Liechtenstein,Liechtenstein,5/12/20,82,0,1,0,55,0
+438,Liechtenstein,Liechtenstein,5/13/20,82,0,1,0,55,0
 440,Lithuania,Lithuania,1/22/20,0,0,0,0,0,0
 440,Lithuania,Lithuania,1/23/20,0,0,0,0,0,0
 440,Lithuania,Lithuania,1/24/20,0,0,0,0,0,0
@@ -15679,6 +15818,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 440,Lithuania,Lithuania,5/10/20,1479,35,50,1,828,0
 440,Lithuania,Lithuania,5/11/20,1485,6,50,0,833,5
 440,Lithuania,Lithuania,5/12/20,1491,6,50,0,850,17
+440,Lithuania,Lithuania,5/13/20,1505,14,54,4,908,58
 442,Luxembourg,Luxembourg,1/22/20,0,0,0,0,0,0
 442,Luxembourg,Luxembourg,1/23/20,0,0,0,0,0,0
 442,Luxembourg,Luxembourg,1/24/20,0,0,0,0,0,0
@@ -15791,6 +15931,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 442,Luxembourg,Luxembourg,5/10/20,3886,9,101,0,3586,36
 442,Luxembourg,Luxembourg,5/11/20,3888,2,101,0,3602,16
 442,Luxembourg,Luxembourg,5/12/20,3894,6,102,1,3610,8
+442,Luxembourg,Luxembourg,5/13/20,3904,10,103,1,3629,19
 450,Madagascar,Madagascar,1/22/20,0,0,0,0,0,0
 450,Madagascar,Madagascar,1/23/20,0,0,0,0,0,0
 450,Madagascar,Madagascar,1/24/20,0,0,0,0,0,0
@@ -15903,6 +16044,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 450,Madagascar,Madagascar,5/10/20,193,0,0,0,101,0
 450,Madagascar,Madagascar,5/11/20,186,0,0,0,101,0
 450,Madagascar,Madagascar,5/12/20,186,0,0,0,101,0
+450,Madagascar,Madagascar,5/13/20,212,26,0,0,107,6
 458,Malaysia,Malaysia,1/22/20,0,0,0,0,0,0
 458,Malaysia,Malaysia,1/23/20,0,0,0,0,0,0
 458,Malaysia,Malaysia,1/24/20,0,0,0,0,0,0
@@ -16015,6 +16157,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 458,Malaysia,Malaysia,5/10/20,6656,67,108,0,5025,96
 458,Malaysia,Malaysia,5/11/20,6726,70,109,1,5113,88
 458,Malaysia,Malaysia,5/12/20,6742,16,109,0,5223,110
+458,Malaysia,Malaysia,5/13/20,6779,37,111,2,5281,58
 462,Maldives,Maldives,1/22/20,0,0,0,0,0,0
 462,Maldives,Maldives,1/23/20,0,0,0,0,0,0
 462,Maldives,Maldives,1/24/20,0,0,0,0,0,0
@@ -16127,6 +16270,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 462,Maldives,Maldives,5/10/20,835,45,3,0,29,0
 462,Maldives,Maldives,5/11/20,897,62,3,0,29,0
 462,Maldives,Maldives,5/12/20,904,7,3,0,29,0
+462,Maldives,Maldives,5/13/20,955,51,4,1,40,11
 470,Malta,Malta,1/22/20,0,0,0,0,0,0
 470,Malta,Malta,1/23/20,0,0,0,0,0,0
 470,Malta,Malta,1/24/20,0,0,0,0,0,0
@@ -16239,6 +16383,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 470,Malta,Malta,5/10/20,496,6,5,0,433,6
 470,Malta,Malta,5/11/20,503,7,5,0,434,1
 470,Malta,Malta,5/12/20,506,3,5,0,434,0
+470,Malta,Malta,5/13/20,508,2,6,1,436,2
 478,Mauritania,Mauritania,1/22/20,0,0,0,0,0,0
 478,Mauritania,Mauritania,1/23/20,0,0,0,0,0,0
 478,Mauritania,Mauritania,1/24/20,0,0,0,0,0,0
@@ -16351,6 +16496,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 478,Mauritania,Mauritania,5/10/20,8,0,1,0,6,0
 478,Mauritania,Mauritania,5/11/20,8,0,1,0,6,0
 478,Mauritania,Mauritania,5/12/20,9,1,1,0,6,0
+478,Mauritania,Mauritania,5/13/20,15,6,2,1,6,0
 480,Mauritius,Mauritius,1/22/20,0,0,0,0,0,0
 480,Mauritius,Mauritius,1/23/20,0,0,0,0,0,0
 480,Mauritius,Mauritius,1/24/20,0,0,0,0,0,0
@@ -16463,6 +16609,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 480,Mauritius,Mauritius,5/10/20,332,0,10,0,320,0
 480,Mauritius,Mauritius,5/11/20,332,0,10,0,322,2
 480,Mauritius,Mauritius,5/12/20,332,0,10,0,322,0
+480,Mauritius,Mauritius,5/13/20,332,0,10,0,322,0
 484,Mexico,Mexico,1/22/20,0,0,0,0,0,0
 484,Mexico,Mexico,1/23/20,0,0,0,0,0,0
 484,Mexico,Mexico,1/24/20,0,0,0,0,0,0
@@ -16575,6 +16722,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 484,Mexico,Mexico,5/10/20,35022,1562,3465,112,21824,0
 484,Mexico,Mexico,5/11/20,36327,1305,3573,108,23100,1276
 484,Mexico,Mexico,5/12/20,38324,1997,3926,353,25935,2835
+484,Mexico,Mexico,5/13/20,40186,1862,4220,294,26990,1055
 498,Moldova,Moldova,1/22/20,0,0,0,0,0,0
 498,Moldova,Moldova,1/23/20,0,0,0,0,0,0
 498,Moldova,Moldova,1/24/20,0,0,0,0,0,0
@@ -16687,6 +16835,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 498,Moldova,Moldova,5/10/20,4927,60,169,8,1958,33
 498,Moldova,Moldova,5/11/20,4995,68,175,6,1980,22
 498,Moldova,Moldova,5/12/20,5154,159,182,7,2069,89
+498,Moldova,Moldova,5/13/20,5406,252,185,3,2176,107
 492,Monaco,Monaco,1/22/20,0,0,0,0,0,0
 492,Monaco,Monaco,1/23/20,0,0,0,0,0,0
 492,Monaco,Monaco,1/24/20,0,0,0,0,0,0
@@ -16799,6 +16948,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 492,Monaco,Monaco,5/10/20,96,0,4,0,82,0
 492,Monaco,Monaco,5/11/20,96,0,4,0,85,3
 492,Monaco,Monaco,5/12/20,96,0,4,0,85,0
+492,Monaco,Monaco,5/13/20,96,0,4,0,87,2
 496,Mongolia,Mongolia,1/22/20,0,0,0,0,0,0
 496,Mongolia,Mongolia,1/23/20,0,0,0,0,0,0
 496,Mongolia,Mongolia,1/24/20,0,0,0,0,0,0
@@ -16911,6 +17061,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 496,Mongolia,Mongolia,5/10/20,42,0,0,0,14,0
 496,Mongolia,Mongolia,5/11/20,42,0,0,0,14,0
 496,Mongolia,Mongolia,5/12/20,42,0,0,0,15,1
+496,Mongolia,Mongolia,5/13/20,42,0,0,0,15,0
 499,Montenegro,Montenegro,1/22/20,0,0,0,0,0,0
 499,Montenegro,Montenegro,1/23/20,0,0,0,0,0,0
 499,Montenegro,Montenegro,1/24/20,0,0,0,0,0,0
@@ -17023,6 +17174,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 499,Montenegro,Montenegro,5/10/20,324,0,9,1,290,16
 499,Montenegro,Montenegro,5/11/20,324,0,9,0,294,4
 499,Montenegro,Montenegro,5/12/20,324,0,9,0,298,4
+499,Montenegro,Montenegro,5/13/20,324,0,9,0,307,9
 504,Morocco,Morocco,1/22/20,0,0,0,0,0,0
 504,Morocco,Morocco,1/23/20,0,0,0,0,0,0
 504,Morocco,Morocco,1/24/20,0,0,0,0,0,0
@@ -17135,6 +17287,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 504,Morocco,Morocco,5/10/20,6063,153,188,2,2554,93
 504,Morocco,Morocco,5/11/20,6281,218,188,0,2811,257
 504,Morocco,Morocco,5/12/20,6418,137,188,0,2991,180
+504,Morocco,Morocco,5/13/20,6512,94,188,0,3131,140
 516,Namibia,Namibia,1/22/20,0,0,0,0,0,0
 516,Namibia,Namibia,1/23/20,0,0,0,0,0,0
 516,Namibia,Namibia,1/24/20,0,0,0,0,0,0
@@ -17247,6 +17400,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 516,Namibia,Namibia,5/10/20,16,0,0,0,11,1
 516,Namibia,Namibia,5/11/20,16,0,0,0,11,0
 516,Namibia,Namibia,5/12/20,16,0,0,0,11,0
+516,Namibia,Namibia,5/13/20,16,0,0,0,11,0
 524,Nepal,Nepal,1/22/20,0,0,0,0,0,0
 524,Nepal,Nepal,1/23/20,0,0,0,0,0,0
 524,Nepal,Nepal,1/24/20,0,0,0,0,0,0
@@ -17359,6 +17513,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 524,Nepal,Nepal,5/10/20,110,0,0,0,31,0
 524,Nepal,Nepal,5/11/20,134,24,0,0,33,2
 524,Nepal,Nepal,5/12/20,217,83,0,0,33,0
+524,Nepal,Nepal,5/13/20,250,33,0,0,35,2
 533,Netherlands,Aruba,1/22/20,0,0,0,0,0,0
 533,Netherlands,Aruba,1/23/20,0,0,0,0,0,0
 533,Netherlands,Aruba,1/24/20,0,0,0,0,0,0
@@ -17471,6 +17626,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 533,Netherlands,Aruba,5/10/20,101,0,3,0,89,0
 533,Netherlands,Aruba,5/11/20,101,0,3,0,89,0
 533,Netherlands,Aruba,5/12/20,101,0,3,0,89,0
+533,Netherlands,Aruba,5/13/20,101,0,3,0,91,2
 531,Netherlands,Curacao,1/22/20,0,0,0,0,0,0
 531,Netherlands,Curacao,1/23/20,0,0,0,0,0,0
 531,Netherlands,Curacao,1/24/20,0,0,0,0,0,0
@@ -17583,6 +17739,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 531,Netherlands,Curacao,5/10/20,16,0,1,0,14,0
 531,Netherlands,Curacao,5/11/20,16,0,1,0,14,0
 531,Netherlands,Curacao,5/12/20,16,0,1,0,14,0
+531,Netherlands,Curacao,5/13/20,16,0,1,0,14,0
 534,Netherlands,Sint Maarten,1/22/20,0,0,0,0,0,0
 534,Netherlands,Sint Maarten,1/23/20,0,0,0,0,0,0
 534,Netherlands,Sint Maarten,1/24/20,0,0,0,0,0,0
@@ -17695,6 +17852,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 534,Netherlands,Sint Maarten,5/10/20,76,0,15,0,46,0
 534,Netherlands,Sint Maarten,5/11/20,76,0,15,0,46,0
 534,Netherlands,Sint Maarten,5/12/20,76,0,15,0,46,0
+534,Netherlands,Sint Maarten,5/13/20,76,0,15,0,46,0
 528,Netherlands,Netherlands,1/22/20,0,0,0,0,0,0
 528,Netherlands,Netherlands,1/23/20,0,0,0,0,0,0
 528,Netherlands,Netherlands,1/24/20,0,0,0,0,0,0
@@ -17807,6 +17965,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 528,Netherlands,Netherlands,5/10/20,42627,245,5440,18,0,0
 528,Netherlands,Netherlands,5/11/20,42788,161,5456,16,0,0
 528,Netherlands,Netherlands,5/12/20,42984,196,5510,54,0,0
+528,Netherlands,Netherlands,5/13/20,43211,227,5562,52,0,0
 554,New Zealand,New Zealand,1/22/20,0,0,0,0,0,0
 554,New Zealand,New Zealand,1/23/20,0,0,0,0,0,0
 554,New Zealand,New Zealand,1/24/20,0,0,0,0,0,0
@@ -17919,6 +18078,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 554,New Zealand,New Zealand,5/10/20,1497,3,21,0,1386,15
 554,New Zealand,New Zealand,5/11/20,1497,0,21,0,1398,12
 554,New Zealand,New Zealand,5/12/20,1497,0,21,0,1402,4
+554,New Zealand,New Zealand,5/13/20,1497,0,21,0,1411,9
 558,Nicaragua,Nicaragua,1/22/20,0,0,0,0,0,0
 558,Nicaragua,Nicaragua,1/23/20,0,0,0,0,0,0
 558,Nicaragua,Nicaragua,1/24/20,0,0,0,0,0,0
@@ -18031,6 +18191,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 558,Nicaragua,Nicaragua,5/10/20,16,0,5,0,7,0
 558,Nicaragua,Nicaragua,5/11/20,16,0,5,0,7,0
 558,Nicaragua,Nicaragua,5/12/20,25,9,8,3,7,0
+558,Nicaragua,Nicaragua,5/13/20,25,0,8,0,7,0
 562,Niger,Niger,1/22/20,0,0,0,0,0,0
 562,Niger,Niger,1/23/20,0,0,0,0,0,0
 562,Niger,Niger,1/24/20,0,0,0,0,0,0
@@ -18143,6 +18304,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 562,Niger,Niger,5/10/20,821,6,46,1,624,7
 562,Niger,Niger,5/11/20,832,11,46,0,637,13
 562,Niger,Niger,5/12/20,854,22,47,1,648,11
+562,Niger,Niger,5/13/20,860,6,49,2,658,10
 566,Nigeria,Nigeria,1/22/20,0,0,0,0,0,0
 566,Nigeria,Nigeria,1/23/20,0,0,0,0,0,0
 566,Nigeria,Nigeria,1/24/20,0,0,0,0,0,0
@@ -18255,6 +18417,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 566,Nigeria,Nigeria,5/10/20,4399,248,143,15,778,33
 566,Nigeria,Nigeria,5/11/20,4641,242,150,7,902,124
 566,Nigeria,Nigeria,5/12/20,4787,146,158,8,959,57
+566,Nigeria,Nigeria,5/13/20,4971,184,164,6,1070,111
 807,North Macedonia,North Macedonia,1/22/20,0,0,0,0,0,0
 807,North Macedonia,North Macedonia,1/23/20,0,0,0,0,0,0
 807,North Macedonia,North Macedonia,1/24/20,0,0,0,0,0,0
@@ -18367,6 +18530,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 807,North Macedonia,North Macedonia,5/10/20,1642,20,91,0,1136,24
 807,North Macedonia,North Macedonia,5/11/20,1664,22,91,0,1200,64
 807,North Macedonia,North Macedonia,5/12/20,1674,10,92,1,1205,5
+807,North Macedonia,North Macedonia,5/13/20,1694,20,95,3,1229,24
 578,Norway,Norway,1/22/20,0,0,0,0,0,0
 578,Norway,Norway,1/23/20,0,0,0,0,0,0
 578,Norway,Norway,1/24/20,0,0,0,0,0,0
@@ -18479,6 +18643,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 578,Norway,Norway,5/10/20,8105,6,219,0,32,0
 578,Norway,Norway,5/11/20,8132,27,224,5,32,0
 578,Norway,Norway,5/12/20,8157,25,228,4,32,0
+578,Norway,Norway,5/13/20,8175,18,229,1,32,0
 512,Oman,Oman,1/22/20,0,0,0,0,0,0
 512,Oman,Oman,1/23/20,0,0,0,0,0,0
 512,Oman,Oman,1/24/20,0,0,0,0,0,0
@@ -18591,6 +18756,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 512,Oman,Oman,5/10/20,3399,175,17,0,1117,49
 512,Oman,Oman,5/11/20,3573,174,17,0,1250,133
 512,Oman,Oman,5/12/20,3721,148,17,0,1250,0
+512,Oman,Oman,5/13/20,4019,298,17,0,1289,39
 586,Pakistan,Pakistan,1/22/20,0,0,0,0,0,0
 586,Pakistan,Pakistan,1/23/20,0,0,0,0,0,0
 586,Pakistan,Pakistan,1/24/20,0,0,0,0,0,0
@@ -18703,6 +18869,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 586,Pakistan,Pakistan,5/10/20,30334,1598,659,23,8063,254
 586,Pakistan,Pakistan,5/11/20,32081,1747,706,47,8555,492
 586,Pakistan,Pakistan,5/12/20,34336,2255,737,31,8812,257
+586,Pakistan,Pakistan,5/13/20,35298,962,761,24,8899,87
 591,Panama,Panama,1/22/20,0,0,0,0,0,0
 591,Panama,Panama,1/23/20,0,0,0,0,0,0
 591,Panama,Panama,1/24/20,0,0,0,0,0,0
@@ -18815,6 +18982,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 591,Panama,Panama,5/10/20,8448,166,244,7,4687,186
 591,Panama,Panama,5/11/20,8616,168,249,5,4687,0
 591,Panama,Panama,5/12/20,8783,167,252,3,6021,1334
+591,Panama,Panama,5/13/20,8944,161,256,4,6067,46
 598,Papua New Guinea,Papua New Guinea,1/22/20,0,0,0,0,0,0
 598,Papua New Guinea,Papua New Guinea,1/23/20,0,0,0,0,0,0
 598,Papua New Guinea,Papua New Guinea,1/24/20,0,0,0,0,0,0
@@ -18927,6 +19095,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 598,Papua New Guinea,Papua New Guinea,5/10/20,8,0,0,0,8,0
 598,Papua New Guinea,Papua New Guinea,5/11/20,8,0,0,0,8,0
 598,Papua New Guinea,Papua New Guinea,5/12/20,8,0,0,0,8,0
+598,Papua New Guinea,Papua New Guinea,5/13/20,8,0,0,0,8,0
 600,Paraguay,Paraguay,1/22/20,0,0,0,0,0,0
 600,Paraguay,Paraguay,1/23/20,0,0,0,0,0,0
 600,Paraguay,Paraguay,1/24/20,0,0,0,0,0,0
@@ -19039,6 +19208,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 600,Paraguay,Paraguay,5/10/20,713,24,10,0,165,10
 600,Paraguay,Paraguay,5/11/20,724,11,10,0,170,5
 600,Paraguay,Paraguay,5/12/20,737,13,10,0,173,3
+600,Paraguay,Paraguay,5/13/20,740,3,11,1,182,9
 604,Peru,Peru,1/22/20,0,0,0,0,0,0
 604,Peru,Peru,1/23/20,0,0,0,0,0,0
 604,Peru,Peru,1/24/20,0,0,0,0,0,0
@@ -19151,6 +19321,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 604,Peru,Peru,5/10/20,67307,2292,1889,75,21349,1103
 604,Peru,Peru,5/11/20,68822,1515,1961,72,22406,1057
 604,Peru,Peru,5/12/20,72059,3237,2057,96,23324,918
+604,Peru,Peru,5/13/20,76306,4247,2169,112,24324,1000
 608,Philippines,Philippines,1/22/20,0,0,0,0,0,0
 608,Philippines,Philippines,1/23/20,0,0,0,0,0,0
 608,Philippines,Philippines,1/24/20,0,0,0,0,0,0
@@ -19263,6 +19434,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 608,Philippines,Philippines,5/10/20,10794,184,719,15,1924,82
 608,Philippines,Philippines,5/11/20,11086,292,726,7,1999,75
 608,Philippines,Philippines,5/12/20,11350,264,751,25,2106,107
+608,Philippines,Philippines,5/13/20,11618,268,772,21,2251,145
 616,Poland,Poland,1/22/20,0,0,0,0,0,0
 616,Poland,Poland,1/23/20,0,0,0,0,0,0
 616,Poland,Poland,1/24/20,0,0,0,0,0,0
@@ -19375,6 +19547,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 616,Poland,Poland,5/10/20,15996,345,800,15,5698,261
 616,Poland,Poland,5/11/20,16326,330,811,11,5816,118
 616,Poland,Poland,5/12/20,16921,595,839,28,6131,315
+616,Poland,Poland,5/13/20,17204,283,861,22,6410,279
 620,Portugal,Portugal,1/22/20,0,0,0,0,0,0
 620,Portugal,Portugal,1/23/20,0,0,0,0,0,0
 620,Portugal,Portugal,1/24/20,0,0,0,0,0,0
@@ -19487,6 +19660,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 620,Portugal,Portugal,5/10/20,27581,175,1135,9,2549,50
 620,Portugal,Portugal,5/11/20,27679,98,1144,9,2549,0
 620,Portugal,Portugal,5/12/20,27913,234,1163,19,3013,464
+620,Portugal,Portugal,5/13/20,28132,219,1175,12,3182,169
 634,Qatar,Qatar,1/22/20,0,0,0,0,0,0
 634,Qatar,Qatar,1/23/20,0,0,0,0,0,0
 634,Qatar,Qatar,1/24/20,0,0,0,0,0,0
@@ -19599,6 +19773,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 634,Qatar,Qatar,5/10/20,22520,1189,14,1,2753,304
 634,Qatar,Qatar,5/11/20,23623,1103,14,0,2840,87
 634,Qatar,Qatar,5/12/20,25149,1526,14,0,3019,179
+634,Qatar,Qatar,5/13/20,26539,1390,14,0,3143,124
 642,Romania,Romania,1/22/20,0,0,0,0,0,0
 642,Romania,Romania,1/23/20,0,0,0,0,0,0
 642,Romania,Romania,1/24/20,0,0,0,0,0,0
@@ -19711,6 +19886,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 642,Romania,Romania,5/10/20,15362,231,961,22,7051,139
 642,Romania,Romania,5/11/20,15588,226,982,21,7245,194
 642,Romania,Romania,5/12/20,15778,190,1002,20,7685,440
+642,Romania,Romania,5/13/20,16002,224,1036,34,7961,276
 643,Russia,Russia,1/22/20,0,0,0,0,0,0
 643,Russia,Russia,1/23/20,0,0,0,0,0,0
 643,Russia,Russia,1/24/20,0,0,0,0,0,0
@@ -19823,6 +19999,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 643,Russia,Russia,5/10/20,209688,11012,1915,88,34306,2390
 643,Russia,Russia,5/11/20,221344,11656,2009,94,39801,5495
 643,Russia,Russia,5/12/20,232243,10899,2116,107,43512,3711
+643,Russia,Russia,5/13/20,242271,10028,2212,96,48003,4491
 646,Rwanda,Rwanda,1/22/20,0,0,0,0,0,0
 646,Rwanda,Rwanda,1/23/20,0,0,0,0,0,0
 646,Rwanda,Rwanda,1/24/20,0,0,0,0,0,0
@@ -19935,6 +20112,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 646,Rwanda,Rwanda,5/10/20,284,4,0,0,140,0
 646,Rwanda,Rwanda,5/11/20,285,1,0,0,150,10
 646,Rwanda,Rwanda,5/12/20,286,1,0,0,153,3
+646,Rwanda,Rwanda,5/13/20,287,1,0,0,164,11
 662,Saint Lucia,Saint Lucia,1/22/20,0,0,0,0,0,0
 662,Saint Lucia,Saint Lucia,1/23/20,0,0,0,0,0,0
 662,Saint Lucia,Saint Lucia,1/24/20,0,0,0,0,0,0
@@ -20047,6 +20225,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 662,Saint Lucia,Saint Lucia,5/10/20,18,0,0,0,17,0
 662,Saint Lucia,Saint Lucia,5/11/20,18,0,0,0,17,0
 662,Saint Lucia,Saint Lucia,5/12/20,18,0,0,0,17,0
+662,Saint Lucia,Saint Lucia,5/13/20,18,0,0,0,18,1
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,1/22/20,0,0,0,0,0,0
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,1/23/20,0,0,0,0,0,0
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,1/24/20,0,0,0,0,0,0
@@ -20159,6 +20338,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,5/10/20,17,0,0,0,9,0
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,5/11/20,17,0,0,0,9,0
 670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,5/12/20,17,0,0,0,12,3
+670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,5/13/20,17,0,0,0,12,0
 674,San Marino,San Marino,1/22/20,0,0,0,0,0,0
 674,San Marino,San Marino,1/23/20,0,0,0,0,0,0
 674,San Marino,San Marino,1/24/20,0,0,0,0,0,0
@@ -20271,6 +20451,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 674,San Marino,San Marino,5/10/20,628,0,41,0,126,0
 674,San Marino,San Marino,5/11/20,628,0,41,0,130,4
 674,San Marino,San Marino,5/12/20,638,10,41,0,161,31
+674,San Marino,San Marino,5/13/20,643,5,41,0,161,0
 682,Saudi Arabia,Saudi Arabia,1/22/20,0,0,0,0,0,0
 682,Saudi Arabia,Saudi Arabia,1/23/20,0,0,0,0,0,0
 682,Saudi Arabia,Saudi Arabia,1/24/20,0,0,0,0,0,0
@@ -20383,6 +20564,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 682,Saudi Arabia,Saudi Arabia,5/10/20,39048,1912,246,7,11457,1313
 682,Saudi Arabia,Saudi Arabia,5/11/20,41014,1966,255,9,12737,1280
 682,Saudi Arabia,Saudi Arabia,5/12/20,42925,1911,264,9,15257,2520
+682,Saudi Arabia,Saudi Arabia,5/13/20,44830,1905,273,9,17622,2365
 686,Senegal,Senegal,1/22/20,0,0,0,0,0,0
 686,Senegal,Senegal,1/23/20,0,0,0,0,0,0
 686,Senegal,Senegal,1/24/20,0,0,0,0,0,0
@@ -20495,6 +20677,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 686,Senegal,Senegal,5/10/20,1709,75,19,2,650,7
 686,Senegal,Senegal,5/11/20,1886,177,19,0,715,65
 686,Senegal,Senegal,5/12/20,1995,109,19,0,742,27
+686,Senegal,Senegal,5/13/20,2105,110,21,2,782,40
 688,Serbia,Serbia,1/22/20,0,0,0,0,0,0
 688,Serbia,Serbia,1/23/20,0,0,0,0,0,0
 688,Serbia,Serbia,1/24/20,0,0,0,0,0,0
@@ -20607,6 +20790,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 688,Serbia,Serbia,5/10/20,10032,0,215,0,2732,0
 688,Serbia,Serbia,5/11/20,10176,144,218,3,3290,558
 688,Serbia,Serbia,5/12/20,10243,67,220,2,3600,310
+688,Serbia,Serbia,5/13/20,10295,52,222,2,3824,224
 690,Seychelles,Seychelles,1/22/20,0,0,0,0,0,0
 690,Seychelles,Seychelles,1/23/20,0,0,0,0,0,0
 690,Seychelles,Seychelles,1/24/20,0,0,0,0,0,0
@@ -20719,6 +20903,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 690,Seychelles,Seychelles,5/10/20,11,0,0,0,10,2
 690,Seychelles,Seychelles,5/11/20,11,0,0,0,10,0
 690,Seychelles,Seychelles,5/12/20,11,0,0,0,10,0
+690,Seychelles,Seychelles,5/13/20,11,0,0,0,10,0
 702,Singapore,Singapore,1/22/20,0,0,0,0,0,0
 702,Singapore,Singapore,1/23/20,1,1,0,0,0,0
 702,Singapore,Singapore,1/24/20,3,2,0,0,0,0
@@ -20831,6 +21016,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 702,Singapore,Singapore,5/10/20,23336,876,20,0,2721,425
 702,Singapore,Singapore,5/11/20,23822,486,21,1,3225,504
 702,Singapore,Singapore,5/12/20,24671,849,21,0,3851,626
+702,Singapore,Singapore,5/13/20,25346,675,21,0,4809,958
 703,Slovakia,Slovakia,1/22/20,0,0,0,0,0,0
 703,Slovakia,Slovakia,1/23/20,0,0,0,0,0,0
 703,Slovakia,Slovakia,1/24/20,0,0,0,0,0,0
@@ -20943,6 +21129,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 703,Slovakia,Slovakia,5/10/20,1457,2,26,0,941,22
 703,Slovakia,Slovakia,5/11/20,1457,0,26,0,959,18
 703,Slovakia,Slovakia,5/12/20,1465,8,27,1,983,24
+703,Slovakia,Slovakia,5/13/20,1469,4,27,0,1060,77
 705,Slovenia,Slovenia,1/22/20,0,0,0,0,0,0
 705,Slovenia,Slovenia,1/23/20,0,0,0,0,0,0
 705,Slovenia,Slovenia,1/24/20,0,0,0,0,0,0
@@ -21055,6 +21242,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 705,Slovenia,Slovenia,5/10/20,1457,3,102,1,256,1
 705,Slovenia,Slovenia,5/11/20,1460,3,102,0,256,0
 705,Slovenia,Slovenia,5/12/20,1461,1,102,0,259,3
+705,Slovenia,Slovenia,5/13/20,1463,2,103,1,260,1
 706,Somalia,Somalia,1/22/20,0,0,0,0,0,0
 706,Somalia,Somalia,1/23/20,0,0,0,0,0,0
 706,Somalia,Somalia,1/24/20,0,0,0,0,0,0
@@ -21167,6 +21355,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 706,Somalia,Somalia,5/10/20,1054,57,51,3,118,8
 706,Somalia,Somalia,5/11/20,1089,35,52,1,121,3
 706,Somalia,Somalia,5/12/20,1170,81,52,0,126,5
+706,Somalia,Somalia,5/13/20,1219,49,52,0,130,4
 710,South Africa,South Africa,1/22/20,0,0,0,0,0,0
 710,South Africa,South Africa,1/23/20,0,0,0,0,0,0
 710,South Africa,South Africa,1/24/20,0,0,0,0,0,0
@@ -21279,6 +21468,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 710,South Africa,South Africa,5/10/20,10015,595,194,8,4173,190
 710,South Africa,South Africa,5/11/20,10652,637,206,12,4357,184
 710,South Africa,South Africa,5/12/20,11350,698,206,0,4357,0
+710,South Africa,South Africa,5/13/20,12074,724,219,13,4745,388
 724,Spain,Spain,1/22/20,0,0,0,0,0,0
 724,Spain,Spain,1/23/20,0,0,0,0,0,0
 724,Spain,Spain,1/24/20,0,0,0,0,0,0
@@ -21391,6 +21581,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 724,Spain,Spain,5/10/20,224350,772,26621,143,136166,2214
 724,Spain,Spain,5/11/20,227436,3086,26744,123,137139,973
 724,Spain,Spain,5/12/20,228030,594,26920,176,138980,1841
+724,Spain,Spain,5/13/20,228691,661,27104,184,140823,1843
 144,Sri Lanka,Sri Lanka,1/22/20,0,0,0,0,0,0
 144,Sri Lanka,Sri Lanka,1/23/20,0,0,0,0,0,0
 144,Sri Lanka,Sri Lanka,1/24/20,0,0,0,0,0,0
@@ -21503,6 +21694,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 144,Sri Lanka,Sri Lanka,5/10/20,863,16,9,0,321,61
 144,Sri Lanka,Sri Lanka,5/11/20,869,6,9,0,343,22
 144,Sri Lanka,Sri Lanka,5/12/20,889,20,9,0,366,23
+144,Sri Lanka,Sri Lanka,5/13/20,915,26,9,0,382,16
 729,Sudan,Sudan,1/22/20,0,0,0,0,0,0
 729,Sudan,Sudan,1/23/20,0,0,0,0,0,0
 729,Sudan,Sudan,1/24/20,0,0,0,0,0,0
@@ -21615,6 +21807,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 729,Sudan,Sudan,5/10/20,1365,201,70,6,149,30
 729,Sudan,Sudan,5/11/20,1526,161,74,4,162,13
 729,Sudan,Sudan,5/12/20,1661,135,80,6,173,11
+729,Sudan,Sudan,5/13/20,1818,157,90,10,198,25
 740,Suriname,Suriname,1/22/20,0,0,0,0,0,0
 740,Suriname,Suriname,1/23/20,0,0,0,0,0,0
 740,Suriname,Suriname,1/24/20,0,0,0,0,0,0
@@ -21727,6 +21920,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 740,Suriname,Suriname,5/10/20,10,0,1,0,9,0
 740,Suriname,Suriname,5/11/20,10,0,1,0,9,0
 740,Suriname,Suriname,5/12/20,10,0,1,0,9,0
+740,Suriname,Suriname,5/13/20,10,0,1,0,9,0
 752,Sweden,Sweden,1/22/20,0,0,0,0,0,0
 752,Sweden,Sweden,1/23/20,0,0,0,0,0,0
 752,Sweden,Sweden,1/24/20,0,0,0,0,0,0
@@ -21839,6 +22033,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 752,Sweden,Sweden,5/10/20,26322,401,3225,5,4971,0
 752,Sweden,Sweden,5/11/20,26670,348,3256,31,4971,0
 752,Sweden,Sweden,5/12/20,27272,602,3313,57,4971,0
+752,Sweden,Sweden,5/13/20,27909,637,3460,147,4971,0
 756,Switzerland,Switzerland,1/22/20,0,0,0,0,0,0
 756,Switzerland,Switzerland,1/23/20,0,0,0,0,0,0
 756,Switzerland,Switzerland,1/24/20,0,0,0,0,0,0
@@ -21951,6 +22146,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 756,Switzerland,Switzerland,5/10/20,30305,54,1833,3,26600,200
 756,Switzerland,Switzerland,5/11/20,30344,39,1845,12,26800,200
 756,Switzerland,Switzerland,5/12/20,30380,36,1867,22,26800,0
+756,Switzerland,Switzerland,5/13/20,30413,33,1870,3,27100,300
 158,Taiwan*,Taiwan*,1/22/20,1,1,0,0,0,0
 158,Taiwan*,Taiwan*,1/23/20,1,0,0,0,0,0
 158,Taiwan*,Taiwan*,1/24/20,3,2,0,0,0,0
@@ -22063,6 +22259,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 158,Taiwan*,Taiwan*,5/10/20,440,0,6,0,366,5
 158,Taiwan*,Taiwan*,5/11/20,440,0,7,1,368,2
 158,Taiwan*,Taiwan*,5/12/20,440,0,7,0,372,4
+158,Taiwan*,Taiwan*,5/13/20,440,0,7,0,375,3
 834,Tanzania,Tanzania,1/22/20,0,0,0,0,0,0
 834,Tanzania,Tanzania,1/23/20,0,0,0,0,0,0
 834,Tanzania,Tanzania,1/24/20,0,0,0,0,0,0
@@ -22175,6 +22372,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 834,Tanzania,Tanzania,5/10/20,509,0,21,0,183,0
 834,Tanzania,Tanzania,5/11/20,509,0,21,0,183,0
 834,Tanzania,Tanzania,5/12/20,509,0,21,0,183,0
+834,Tanzania,Tanzania,5/13/20,509,0,21,0,183,0
 764,Thailand,Thailand,1/22/20,2,2,0,0,0,0
 764,Thailand,Thailand,1/23/20,3,1,0,0,0,0
 764,Thailand,Thailand,1/24/20,5,2,0,0,0,0
@@ -22287,6 +22485,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 764,Thailand,Thailand,5/10/20,3009,5,56,0,2794,7
 764,Thailand,Thailand,5/11/20,3015,6,56,0,2796,2
 764,Thailand,Thailand,5/12/20,3017,2,56,0,2798,2
+764,Thailand,Thailand,5/13/20,3017,0,56,0,2844,46
 768,Togo,Togo,1/22/20,0,0,0,0,0,0
 768,Togo,Togo,1/23/20,0,0,0,0,0,0
 768,Togo,Togo,1/24/20,0,0,0,0,0,0
@@ -22399,6 +22598,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 768,Togo,Togo,5/10/20,174,21,11,1,89,2
 768,Togo,Togo,5/11/20,181,7,11,0,89,0
 768,Togo,Togo,5/12/20,199,18,11,0,92,3
+768,Togo,Togo,5/13/20,219,20,11,0,96,4
 780,Trinidad and Tobago,Trinidad and Tobago,1/22/20,0,0,0,0,0,0
 780,Trinidad and Tobago,Trinidad and Tobago,1/23/20,0,0,0,0,0,0
 780,Trinidad and Tobago,Trinidad and Tobago,1/24/20,0,0,0,0,0,0
@@ -22511,6 +22711,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 780,Trinidad and Tobago,Trinidad and Tobago,5/10/20,116,0,8,0,107,3
 780,Trinidad and Tobago,Trinidad and Tobago,5/11/20,116,0,8,0,107,0
 780,Trinidad and Tobago,Trinidad and Tobago,5/12/20,116,0,8,0,107,0
+780,Trinidad and Tobago,Trinidad and Tobago,5/13/20,116,0,8,0,107,0
 788,Tunisia,Tunisia,1/22/20,0,0,0,0,0,0
 788,Tunisia,Tunisia,1/23/20,0,0,0,0,0,0
 788,Tunisia,Tunisia,1/24/20,0,0,0,0,0,0
@@ -22623,6 +22824,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 788,Tunisia,Tunisia,5/10/20,1032,0,45,0,700,40
 788,Tunisia,Tunisia,5/11/20,1032,0,45,0,727,27
 788,Tunisia,Tunisia,5/12/20,1032,0,45,0,740,13
+788,Tunisia,Tunisia,5/13/20,1032,0,45,0,759,19
 792,Turkey,Turkey,1/22/20,0,0,0,0,0,0
 792,Turkey,Turkey,1/23/20,0,0,0,0,0,0
 792,Turkey,Turkey,1/24/20,0,0,0,0,0,0
@@ -22735,6 +22937,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 792,Turkey,Turkey,5/10/20,138657,1542,3786,47,92691,3211
 792,Turkey,Turkey,5/11/20,139771,1114,3841,55,95780,3089
 792,Turkey,Turkey,5/12/20,141475,1704,3894,53,98889,3109
+792,Turkey,Turkey,5/13/20,143114,1639,3952,58,101715,2826
 800,Uganda,Uganda,1/22/20,0,0,0,0,0,0
 800,Uganda,Uganda,1/23/20,0,0,0,0,0,0
 800,Uganda,Uganda,1/24/20,0,0,0,0,0,0
@@ -22847,6 +23050,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 800,Uganda,Uganda,5/10/20,121,5,0,0,55,0
 800,Uganda,Uganda,5/11/20,121,0,0,0,55,0
 800,Uganda,Uganda,5/12/20,129,8,0,0,55,0
+800,Uganda,Uganda,5/13/20,139,10,0,0,55,0
 804,Ukraine,Ukraine,1/22/20,0,0,0,0,0,0
 804,Ukraine,Ukraine,1/23/20,0,0,0,0,0,0
 804,Ukraine,Ukraine,1/24/20,0,0,0,0,0,0
@@ -22959,6 +23163,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 804,Ukraine,Ukraine,5/10/20,15232,522,391,15,3060,151
 804,Ukraine,Ukraine,5/11/20,15648,416,408,17,3288,228
 804,Ukraine,Ukraine,5/12/20,16023,375,425,17,3373,85
+804,Ukraine,Ukraine,5/13/20,16425,402,439,14,3716,343
 784,United Arab Emirates,United Arab Emirates,1/22/20,0,0,0,0,0,0
 784,United Arab Emirates,United Arab Emirates,1/23/20,0,0,0,0,0,0
 784,United Arab Emirates,United Arab Emirates,1/24/20,0,0,0,0,0,0
@@ -23071,6 +23276,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 784,United Arab Emirates,United Arab Emirates,5/10/20,18198,781,198,13,4804,509
 784,United Arab Emirates,United Arab Emirates,5/11/20,18878,680,201,3,5381,577
 784,United Arab Emirates,United Arab Emirates,5/12/20,19661,783,203,2,6012,631
+784,United Arab Emirates,United Arab Emirates,5/13/20,20386,725,206,3,6523,511
 60,United Kingdom,Bermuda,1/22/20,0,0,0,0,0,0
 60,United Kingdom,Bermuda,1/23/20,0,0,0,0,0,0
 60,United Kingdom,Bermuda,1/24/20,0,0,0,0,0,0
@@ -23183,6 +23389,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 60,United Kingdom,Bermuda,5/10/20,118,0,7,0,64,0
 60,United Kingdom,Bermuda,5/11/20,119,1,8,1,66,2
 60,United Kingdom,Bermuda,5/12/20,121,2,8,0,66,0
+60,United Kingdom,Bermuda,5/13/20,121,0,8,0,66,0
 136,United Kingdom,Cayman Islands,1/22/20,0,0,0,0,0,0
 136,United Kingdom,Cayman Islands,1/23/20,0,0,0,0,0,0
 136,United Kingdom,Cayman Islands,1/24/20,0,0,0,0,0,0
@@ -23295,6 +23502,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 136,United Kingdom,Cayman Islands,5/10/20,81,0,1,0,41,0
 136,United Kingdom,Cayman Islands,5/11/20,84,3,1,0,47,6
 136,United Kingdom,Cayman Islands,5/12/20,85,1,1,0,50,3
+136,United Kingdom,Cayman Islands,5/13/20,86,1,1,0,54,4
 8261,United Kingdom,Channel Islands,1/22/20,0,0,0,0,0,0
 8261,United Kingdom,Channel Islands,1/23/20,0,0,0,0,0,0
 8261,United Kingdom,Channel Islands,1/24/20,0,0,0,0,0,0
@@ -23407,6 +23615,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 8261,United Kingdom,Channel Islands,5/10/20,545,0,41,0,447,0
 8261,United Kingdom,Channel Islands,5/11/20,546,1,41,0,452,5
 8261,United Kingdom,Channel Islands,5/12/20,547,1,42,1,455,3
+8261,United Kingdom,Channel Islands,5/13/20,548,1,43,1,456,1
 292,United Kingdom,Gibraltar,1/22/20,0,0,0,0,0,0
 292,United Kingdom,Gibraltar,1/23/20,0,0,0,0,0,0
 292,United Kingdom,Gibraltar,1/24/20,0,0,0,0,0,0
@@ -23519,6 +23728,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 292,United Kingdom,Gibraltar,5/10/20,146,0,0,0,143,1
 292,United Kingdom,Gibraltar,5/11/20,147,1,0,0,143,0
 292,United Kingdom,Gibraltar,5/12/20,148,1,0,0,144,1
+292,United Kingdom,Gibraltar,5/13/20,147,0,0,0,144,0
 833,United Kingdom,Isle of Man,1/22/20,0,0,0,0,0,0
 833,United Kingdom,Isle of Man,1/23/20,0,0,0,0,0,0
 833,United Kingdom,Isle of Man,1/24/20,0,0,0,0,0,0
@@ -23631,6 +23841,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 833,United Kingdom,Isle of Man,5/10/20,330,1,23,0,271,0
 833,United Kingdom,Isle of Man,5/11/20,330,0,23,0,271,0
 833,United Kingdom,Isle of Man,5/12/20,331,1,23,0,272,1
+833,United Kingdom,Isle of Man,5/13/20,332,1,23,0,274,2
 500,United Kingdom,Montserrat,1/22/20,0,0,0,0,0,0
 500,United Kingdom,Montserrat,1/23/20,0,0,0,0,0,0
 500,United Kingdom,Montserrat,1/24/20,0,0,0,0,0,0
@@ -23743,6 +23954,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 500,United Kingdom,Montserrat,5/10/20,11,0,1,0,8,0
 500,United Kingdom,Montserrat,5/11/20,11,0,1,0,8,0
 500,United Kingdom,Montserrat,5/12/20,11,0,1,0,8,0
+500,United Kingdom,Montserrat,5/13/20,11,0,1,0,8,0
 826,United Kingdom,United Kingdom,1/22/20,0,0,0,0,0,0
 826,United Kingdom,United Kingdom,1/23/20,0,0,0,0,0,0
 826,United Kingdom,United Kingdom,1/24/20,0,0,0,0,0,0
@@ -23855,6 +24067,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 826,United Kingdom,United Kingdom,5/10/20,219183,3923,31855,268,0,0
 826,United Kingdom,United Kingdom,5/11/20,223060,3877,32065,210,0,0
 826,United Kingdom,United Kingdom,5/12/20,226463,3403,32692,627,0,0
+826,United Kingdom,United Kingdom,5/13/20,229705,3242,33186,494,0,0
 858,Uruguay,Uruguay,1/22/20,0,0,0,0,0,0
 858,Uruguay,Uruguay,1/23/20,0,0,0,0,0,0
 858,Uruguay,Uruguay,1/24/20,0,0,0,0,0,0
@@ -23967,6 +24180,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 858,Uruguay,Uruguay,5/10/20,707,5,19,1,517,4
 858,Uruguay,Uruguay,5/11/20,711,4,19,0,523,6
 858,Uruguay,Uruguay,5/12/20,717,6,19,0,532,9
+858,Uruguay,Uruguay,5/13/20,719,2,19,0,545,13
 840,US,US,1/22/20,1,1,0,0,0,0
 840,US,US,1/23/20,1,0,0,0,0,0
 840,US,US,1/24/20,2,1,0,0,0,0
@@ -24079,6 +24293,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 840,US,US,5/10/20,1329260,19710,79526,731,216169,3635
 840,US,US,5/11/20,1347881,18621,80682,1156,232733,16564
 840,US,US,5/12/20,1369376,21495,82356,1674,230287,0
+840,US,US,5/13/20,1390406,21030,84119,1763,243430,13143
 860,Uzbekistan,Uzbekistan,1/22/20,0,0,0,0,0,0
 860,Uzbekistan,Uzbekistan,1/23/20,0,0,0,0,0,0
 860,Uzbekistan,Uzbekistan,1/24/20,0,0,0,0,0,0
@@ -24191,6 +24406,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 860,Uzbekistan,Uzbekistan,5/10/20,2418,69,10,0,1881,35
 860,Uzbekistan,Uzbekistan,5/11/20,2486,68,10,0,1988,107
 860,Uzbekistan,Uzbekistan,5/12/20,2519,33,10,0,2010,22
+860,Uzbekistan,Uzbekistan,5/13/20,2612,93,11,1,2076,66
 862,Venezuela,Venezuela,1/22/20,0,0,0,0,0,0
 862,Venezuela,Venezuela,1/23/20,0,0,0,0,0,0
 862,Venezuela,Venezuela,1/24/20,0,0,0,0,0,0
@@ -24303,6 +24519,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 862,Venezuela,Venezuela,5/10/20,414,12,10,0,193,3
 862,Venezuela,Venezuela,5/11/20,422,8,10,0,205,12
 862,Venezuela,Venezuela,5/12/20,423,1,10,0,220,15
+862,Venezuela,Venezuela,5/13/20,423,0,10,0,220,0
 704,Vietnam,Vietnam,1/22/20,0,0,0,0,0,0
 704,Vietnam,Vietnam,1/23/20,2,2,0,0,0,0
 704,Vietnam,Vietnam,1/24/20,2,0,0,0,0,0
@@ -24415,6 +24632,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 704,Vietnam,Vietnam,5/10/20,288,0,0,0,241,0
 704,Vietnam,Vietnam,5/11/20,288,0,0,0,249,8
 704,Vietnam,Vietnam,5/12/20,288,0,0,0,252,3
+704,Vietnam,Vietnam,5/13/20,288,0,0,0,252,0
 894,Zambia,Zambia,1/22/20,0,0,0,0,0,0
 894,Zambia,Zambia,1/23/20,0,0,0,0,0,0
 894,Zambia,Zambia,1/24/20,0,0,0,0,0,0
@@ -24527,6 +24745,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 894,Zambia,Zambia,5/10/20,267,15,7,0,117,5
 894,Zambia,Zambia,5/11/20,267,0,7,0,117,0
 894,Zambia,Zambia,5/12/20,441,174,7,0,117,0
+894,Zambia,Zambia,5/13/20,446,5,7,0,124,7
 716,Zimbabwe,Zimbabwe,1/22/20,0,0,0,0,0,0
 716,Zimbabwe,Zimbabwe,1/23/20,0,0,0,0,0,0
 716,Zimbabwe,Zimbabwe,1/24/20,0,0,0,0,0,0
@@ -24639,6 +24858,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 716,Zimbabwe,Zimbabwe,5/10/20,36,1,4,0,9,0
 716,Zimbabwe,Zimbabwe,5/11/20,36,0,4,0,9,0
 716,Zimbabwe,Zimbabwe,5/12/20,36,0,4,0,9,0
+716,Zimbabwe,Zimbabwe,5/13/20,37,1,4,0,12,3
 212,Dominica,Dominica,1/22/20,0,0,0,0,0,0
 212,Dominica,Dominica,1/23/20,0,0,0,0,0,0
 212,Dominica,Dominica,1/24/20,0,0,0,0,0,0
@@ -24751,6 +24971,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 212,Dominica,Dominica,5/10/20,16,0,0,0,15,1
 212,Dominica,Dominica,5/11/20,16,0,0,0,15,0
 212,Dominica,Dominica,5/12/20,16,0,0,0,15,0
+212,Dominica,Dominica,5/13/20,16,0,0,0,15,0
 308,Grenada,Grenada,1/22/20,0,0,0,0,0,0
 308,Grenada,Grenada,1/23/20,0,0,0,0,0,0
 308,Grenada,Grenada,1/24/20,0,0,0,0,0,0
@@ -24863,6 +25084,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 308,Grenada,Grenada,5/10/20,21,0,0,0,13,0
 308,Grenada,Grenada,5/11/20,21,0,0,0,13,0
 308,Grenada,Grenada,5/12/20,21,0,0,0,13,0
+308,Grenada,Grenada,5/13/20,21,0,0,0,13,0
 508,Mozambique,Mozambique,1/22/20,0,0,0,0,0,0
 508,Mozambique,Mozambique,1/23/20,0,0,0,0,0,0
 508,Mozambique,Mozambique,1/24/20,0,0,0,0,0,0
@@ -24975,6 +25197,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 508,Mozambique,Mozambique,5/10/20,91,4,0,0,34,0
 508,Mozambique,Mozambique,5/11/20,103,12,0,0,34,0
 508,Mozambique,Mozambique,5/12/20,104,1,0,0,34,0
+508,Mozambique,Mozambique,5/13/20,104,0,0,0,34,0
 760,Syria,Syria,1/22/20,0,0,0,0,0,0
 760,Syria,Syria,1/23/20,0,0,0,0,0,0
 760,Syria,Syria,1/24/20,0,0,0,0,0,0
@@ -25087,6 +25310,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 760,Syria,Syria,5/10/20,47,0,3,0,29,0
 760,Syria,Syria,5/11/20,47,0,3,0,29,0
 760,Syria,Syria,5/12/20,47,0,3,0,29,0
+760,Syria,Syria,5/13/20,48,1,3,0,29,0
 626,Timor-Leste,Timor-Leste,1/22/20,0,0,0,0,0,0
 626,Timor-Leste,Timor-Leste,1/23/20,0,0,0,0,0,0
 626,Timor-Leste,Timor-Leste,1/24/20,0,0,0,0,0,0
@@ -25199,6 +25423,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 626,Timor-Leste,Timor-Leste,5/10/20,24,0,0,0,21,0
 626,Timor-Leste,Timor-Leste,5/11/20,24,0,0,0,21,0
 626,Timor-Leste,Timor-Leste,5/12/20,24,0,0,0,21,0
+626,Timor-Leste,Timor-Leste,5/13/20,24,0,0,0,21,0
 84,Belize,Belize,1/22/20,0,0,0,0,0,0
 84,Belize,Belize,1/23/20,0,0,0,0,0,0
 84,Belize,Belize,1/24/20,0,0,0,0,0,0
@@ -25311,6 +25536,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 84,Belize,Belize,5/10/20,18,0,2,0,16,0
 84,Belize,Belize,5/11/20,18,0,2,0,16,0
 84,Belize,Belize,5/12/20,18,0,2,0,16,0
+84,Belize,Belize,5/13/20,18,0,2,0,16,0
 418,Laos,Laos,1/22/20,0,0,0,0,0,0
 418,Laos,Laos,1/23/20,0,0,0,0,0,0
 418,Laos,Laos,1/24/20,0,0,0,0,0,0
@@ -25423,6 +25649,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 418,Laos,Laos,5/10/20,19,0,0,0,13,0
 418,Laos,Laos,5/11/20,19,0,0,0,13,0
 418,Laos,Laos,5/12/20,19,0,0,0,13,0
+418,Laos,Laos,5/13/20,19,0,0,0,14,1
 434,Libya,Libya,1/22/20,0,0,0,0,0,0
 434,Libya,Libya,1/23/20,0,0,0,0,0,0
 434,Libya,Libya,1/24/20,0,0,0,0,0,0
@@ -25535,6 +25762,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 434,Libya,Libya,5/10/20,64,0,3,0,24,0
 434,Libya,Libya,5/11/20,64,0,3,0,28,4
 434,Libya,Libya,5/12/20,64,0,3,0,28,0
+434,Libya,Libya,5/13/20,64,0,3,0,28,0
 275,West Bank and Gaza,West Bank and Gaza,1/22/20,0,0,0,0,0,0
 275,West Bank and Gaza,West Bank and Gaza,1/23/20,0,0,0,0,0,0
 275,West Bank and Gaza,West Bank and Gaza,1/24/20,0,0,0,0,0,0
@@ -25647,6 +25875,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 275,West Bank and Gaza,West Bank and Gaza,5/10/20,375,0,2,0,263,35
 275,West Bank and Gaza,West Bank and Gaza,5/11/20,375,0,2,0,301,38
 275,West Bank and Gaza,West Bank and Gaza,5/12/20,375,0,2,0,308,7
+275,West Bank and Gaza,West Bank and Gaza,5/13/20,375,0,2,0,310,2
 624,Guinea-Bissau,Guinea-Bissau,1/22/20,0,0,0,0,0,0
 624,Guinea-Bissau,Guinea-Bissau,1/23/20,0,0,0,0,0,0
 624,Guinea-Bissau,Guinea-Bissau,1/24/20,0,0,0,0,0,0
@@ -25759,6 +25988,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 624,Guinea-Bissau,Guinea-Bissau,5/10/20,726,85,3,0,26,1
 624,Guinea-Bissau,Guinea-Bissau,5/11/20,761,35,3,0,26,0
 624,Guinea-Bissau,Guinea-Bissau,5/12/20,820,59,3,0,26,0
+624,Guinea-Bissau,Guinea-Bissau,5/13/20,836,16,3,0,26,0
 466,Mali,Mali,1/22/20,0,0,0,0,0,0
 466,Mali,Mali,1/23/20,0,0,0,0,0,0
 466,Mali,Mali,1/24/20,0,0,0,0,0,0
@@ -25871,6 +26101,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 466,Mali,Mali,5/10/20,704,12,38,1,351,53
 466,Mali,Mali,5/11/20,712,8,39,1,377,26
 466,Mali,Mali,5/12/20,730,18,40,1,398,21
+466,Mali,Mali,5/13/20,758,28,44,4,412,14
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,1/22/20,0,0,0,0,0,0
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,1/23/20,0,0,0,0,0,0
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,1/24/20,0,0,0,0,0,0
@@ -25983,6 +26214,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,5/10/20,15,0,0,0,14,0
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,5/11/20,15,0,0,0,14,0
 659,Saint Kitts and Nevis,Saint Kitts and Nevis,5/12/20,15,0,0,0,14,0
+659,Saint Kitts and Nevis,Saint Kitts and Nevis,5/13/20,15,0,0,0,14,0
 383,Kosovo,Kosovo,1/22/20,0,0,0,0,0,0
 383,Kosovo,Kosovo,1/23/20,0,0,0,0,0,0
 383,Kosovo,Kosovo,1/24/20,0,0,0,0,0,0
@@ -26095,6 +26327,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 383,Kosovo,Kosovo,5/10/20,870,8,28,0,653,31
 383,Kosovo,Kosovo,5/11/20,884,14,28,0,655,2
 383,Kosovo,Kosovo,5/12/20,919,35,29,1,671,16
+383,Kosovo,Kosovo,5/13/20,919,0,29,0,671,0
 104,Burma,Burma,1/22/20,0,0,0,0,0,0
 104,Burma,Burma,1/23/20,0,0,0,0,0,0
 104,Burma,Burma,1/24/20,0,0,0,0,0,0
@@ -26207,6 +26440,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 104,Burma,Burma,5/10/20,180,2,6,0,72,4
 104,Burma,Burma,5/11/20,180,0,6,0,74,2
 104,Burma,Burma,5/12/20,180,0,6,0,76,2
+104,Burma,Burma,5/13/20,181,1,6,0,79,3
 660,United Kingdom,Anguilla,1/22/20,0,0,0,0,0,0
 660,United Kingdom,Anguilla,1/23/20,0,0,0,0,0,0
 660,United Kingdom,Anguilla,1/24/20,0,0,0,0,0,0
@@ -26319,6 +26553,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 660,United Kingdom,Anguilla,5/10/20,3,0,0,0,3,0
 660,United Kingdom,Anguilla,5/11/20,3,0,0,0,3,0
 660,United Kingdom,Anguilla,5/12/20,3,0,0,0,3,0
+660,United Kingdom,Anguilla,5/13/20,3,0,0,0,3,0
 92,United Kingdom,British Virgin Islands,1/22/20,0,0,0,0,0,0
 92,United Kingdom,British Virgin Islands,1/23/20,0,0,0,0,0,0
 92,United Kingdom,British Virgin Islands,1/24/20,0,0,0,0,0,0
@@ -26431,6 +26666,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 92,United Kingdom,British Virgin Islands,5/10/20,7,0,1,0,4,0
 92,United Kingdom,British Virgin Islands,5/11/20,7,0,1,0,4,0
 92,United Kingdom,British Virgin Islands,5/12/20,7,0,1,0,4,0
+92,United Kingdom,British Virgin Islands,5/13/20,7,0,1,0,4,0
 796,United Kingdom,Turks and Caicos Islands,1/22/20,0,0,0,0,0,0
 796,United Kingdom,Turks and Caicos Islands,1/23/20,0,0,0,0,0,0
 796,United Kingdom,Turks and Caicos Islands,1/24/20,0,0,0,0,0,0
@@ -26543,6 +26779,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 796,United Kingdom,Turks and Caicos Islands,5/10/20,12,0,1,0,8,0
 796,United Kingdom,Turks and Caicos Islands,5/11/20,12,0,1,0,8,0
 796,United Kingdom,Turks and Caicos Islands,5/12/20,12,0,1,0,8,0
+796,United Kingdom,Turks and Caicos Islands,5/13/20,12,0,1,0,10,2
 8888,MS Zaandam,MS Zaandam,1/22/20,0,0,0,0,0,0
 8888,MS Zaandam,MS Zaandam,1/23/20,0,0,0,0,0,0
 8888,MS Zaandam,MS Zaandam,1/24/20,0,0,0,0,0,0
@@ -26655,6 +26892,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 8888,MS Zaandam,MS Zaandam,5/10/20,9,0,2,0,0,0
 8888,MS Zaandam,MS Zaandam,5/11/20,9,0,2,0,0,0
 8888,MS Zaandam,MS Zaandam,5/12/20,9,0,2,0,0,0
+8888,MS Zaandam,MS Zaandam,5/13/20,9,0,2,0,0,0
 72,Botswana,Botswana,1/22/20,0,0,0,0,0,0
 72,Botswana,Botswana,1/23/20,0,0,0,0,0,0
 72,Botswana,Botswana,1/24/20,0,0,0,0,0,0
@@ -26767,6 +27005,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 72,Botswana,Botswana,5/10/20,23,0,1,0,12,0
 72,Botswana,Botswana,5/11/20,24,1,1,0,12,0
 72,Botswana,Botswana,5/12/20,24,0,1,0,17,5
+72,Botswana,Botswana,5/13/20,24,0,1,0,17,0
 108,Burundi,Burundi,1/22/20,0,0,0,0,0,0
 108,Burundi,Burundi,1/23/20,0,0,0,0,0,0
 108,Burundi,Burundi,1/24/20,0,0,0,0,0,0
@@ -26879,6 +27118,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 108,Burundi,Burundi,5/10/20,15,0,1,0,7,0
 108,Burundi,Burundi,5/11/20,15,0,1,0,7,0
 108,Burundi,Burundi,5/12/20,15,0,1,0,7,0
+108,Burundi,Burundi,5/13/20,15,0,1,0,7,0
 694,Sierra Leone,Sierra Leone,1/22/20,0,0,0,0,0,0
 694,Sierra Leone,Sierra Leone,1/23/20,0,0,0,0,0,0
 694,Sierra Leone,Sierra Leone,1/24/20,0,0,0,0,0,0
@@ -26991,6 +27231,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 694,Sierra Leone,Sierra Leone,5/10/20,307,16,18,0,67,9
 694,Sierra Leone,Sierra Leone,5/11/20,338,31,19,1,72,5
 694,Sierra Leone,Sierra Leone,5/12/20,338,0,19,0,72,0
+694,Sierra Leone,Sierra Leone,5/13/20,387,49,26,7,97,25
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",1/22/20,0,0,0,0,0,0
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",1/23/20,0,0,0,0,0,0
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",1/24/20,0,0,0,0,0,0
@@ -27103,6 +27344,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",5/10/20,6,0,0,0,0,0
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",5/11/20,6,0,0,0,0,0
 535,Netherlands,"Bonaire, Sint Eustatius and Saba",5/12/20,6,0,0,0,0,0
+535,Netherlands,"Bonaire, Sint Eustatius and Saba",5/13/20,6,0,0,0,6,6
 454,Malawi,Malawi,1/22/20,0,0,0,0,0,0
 454,Malawi,Malawi,1/23/20,0,0,0,0,0,0
 454,Malawi,Malawi,1/24/20,0,0,0,0,0,0
@@ -27215,6 +27457,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 454,Malawi,Malawi,5/10/20,56,0,3,0,14,0
 454,Malawi,Malawi,5/11/20,57,1,3,0,24,10
 454,Malawi,Malawi,5/12/20,57,0,3,0,24,0
+454,Malawi,Malawi,5/13/20,63,6,3,0,24,0
 238,United Kingdom,Falkland Islands (Malvinas),1/22/20,0,0,0,0,0,0
 238,United Kingdom,Falkland Islands (Malvinas),1/23/20,0,0,0,0,0,0
 238,United Kingdom,Falkland Islands (Malvinas),1/24/20,0,0,0,0,0,0
@@ -27327,6 +27570,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 238,United Kingdom,Falkland Islands (Malvinas),5/10/20,13,0,0,0,13,0
 238,United Kingdom,Falkland Islands (Malvinas),5/11/20,13,0,0,0,13,0
 238,United Kingdom,Falkland Islands (Malvinas),5/12/20,13,0,0,0,13,0
+238,United Kingdom,Falkland Islands (Malvinas),5/13/20,13,0,0,0,13,0
 666,France,Saint Pierre and Miquelon,1/22/20,0,0,0,0,0,0
 666,France,Saint Pierre and Miquelon,1/23/20,0,0,0,0,0,0
 666,France,Saint Pierre and Miquelon,1/24/20,0,0,0,0,0,0
@@ -27439,6 +27683,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 666,France,Saint Pierre and Miquelon,5/10/20,1,0,0,0,0,0
 666,France,Saint Pierre and Miquelon,5/11/20,1,0,0,0,1,1
 666,France,Saint Pierre and Miquelon,5/12/20,1,0,0,0,1,0
+666,France,Saint Pierre and Miquelon,5/13/20,1,0,0,0,1,0
 728,South Sudan,South Sudan,1/22/20,0,0,0,0,0,0
 728,South Sudan,South Sudan,1/23/20,0,0,0,0,0,0
 728,South Sudan,South Sudan,1/24/20,0,0,0,0,0,0
@@ -27551,6 +27796,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 728,South Sudan,South Sudan,5/10/20,120,0,0,0,2,0
 728,South Sudan,South Sudan,5/11/20,156,36,0,0,2,0
 728,South Sudan,South Sudan,5/12/20,194,38,0,0,2,0
+728,South Sudan,South Sudan,5/13/20,203,9,0,0,2,0
 732,Western Sahara,Western Sahara,1/22/20,0,0,0,0,0,0
 732,Western Sahara,Western Sahara,1/23/20,0,0,0,0,0,0
 732,Western Sahara,Western Sahara,1/24/20,0,0,0,0,0,0
@@ -27663,6 +27909,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 732,Western Sahara,Western Sahara,5/10/20,6,0,0,0,5,0
 732,Western Sahara,Western Sahara,5/11/20,6,0,0,0,6,1
 732,Western Sahara,Western Sahara,5/12/20,6,0,0,0,6,0
+732,Western Sahara,Western Sahara,5/13/20,6,0,0,0,6,0
 678,Sao Tome and Principe,Sao Tome and Principe,1/22/20,0,0,0,0,0,0
 678,Sao Tome and Principe,Sao Tome and Principe,1/23/20,0,0,0,0,0,0
 678,Sao Tome and Principe,Sao Tome and Principe,1/24/20,0,0,0,0,0,0
@@ -27775,6 +28022,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 678,Sao Tome and Principe,Sao Tome and Principe,5/10/20,208,0,5,0,4,0
 678,Sao Tome and Principe,Sao Tome and Principe,5/11/20,208,0,5,0,4,0
 678,Sao Tome and Principe,Sao Tome and Principe,5/12/20,208,0,5,0,4,0
+678,Sao Tome and Principe,Sao Tome and Principe,5/13/20,220,12,6,1,4,0
 887,Yemen,Yemen,1/22/20,0,0,0,0,0,0
 887,Yemen,Yemen,1/23/20,0,0,0,0,0,0
 887,Yemen,Yemen,1/24/20,0,0,0,0,0,0
@@ -27887,6 +28135,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 887,Yemen,Yemen,5/10/20,51,17,8,1,1,0
 887,Yemen,Yemen,5/11/20,56,5,9,1,1,0
 887,Yemen,Yemen,5/12/20,65,9,10,1,1,0
+887,Yemen,Yemen,5/13/20,70,5,12,2,1,0
 174,Comoros,Comoros,1/22/20,0,0,0,0,0,0
 174,Comoros,Comoros,1/23/20,0,0,0,0,0,0
 174,Comoros,Comoros,1/24/20,0,0,0,0,0,0
@@ -27999,6 +28248,7 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 174,Comoros,Comoros,5/10/20,11,0,1,0,0,0
 174,Comoros,Comoros,5/11/20,11,0,1,0,0,0
 174,Comoros,Comoros,5/12/20,11,0,1,0,0,0
+174,Comoros,Comoros,5/13/20,11,0,1,0,0,0
 762,Tajikistan,Tajikistan,1/22/20,0,0,0,0,0,0
 762,Tajikistan,Tajikistan,1/23/20,0,0,0,0,0,0
 762,Tajikistan,Tajikistan,1/24/20,0,0,0,0,0,0
@@ -28111,6 +28361,120 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 762,Tajikistan,Tajikistan,5/10/20,612,0,20,0,0,0
 762,Tajikistan,Tajikistan,5/11/20,661,49,21,1,0,0
 762,Tajikistan,Tajikistan,5/12/20,729,68,21,0,0,0
+762,Tajikistan,Tajikistan,5/13/20,801,72,23,2,0,0
+426,Lesotho,Lesotho,1/22/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/23/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/24/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/25/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/26/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/27/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/28/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/29/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/30/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,1/31/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/1/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/2/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/3/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/4/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/5/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/6/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/7/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/8/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/9/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/10/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/11/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/12/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/13/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/14/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/15/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/16/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/17/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/18/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/19/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/20/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/21/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/22/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/23/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/24/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/25/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/26/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/27/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/28/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,2/29/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/1/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/2/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/3/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/4/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/5/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/6/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/7/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/8/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/9/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/10/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/11/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/12/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/13/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/14/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/15/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/16/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/17/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/18/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/19/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/20/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/21/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/22/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/23/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/24/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/25/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/26/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/27/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/28/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/29/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/30/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,3/31/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/1/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/2/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/3/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/4/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/5/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/6/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/7/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/8/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/9/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/10/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/11/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/12/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/13/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/14/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/15/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/16/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/17/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/18/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/19/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/20/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/21/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/22/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/23/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/24/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/25/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/26/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/27/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/28/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/29/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,4/30/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/1/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/2/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/3/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/4/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/5/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/6/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/7/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/8/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/9/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/10/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/11/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/12/20,0,0,0,0,0,0
+426,Lesotho,Lesotho,5/13/20,1,1,0,0,0,0
 124,Canada,Canada,1/22/20,0,0,0,0,0,0
 124,Canada,Canada,1/23/20,0,0,0,0,0,0
 124,Canada,Canada,1/24/20,0,0,0,0,0,0
@@ -28223,3 +28587,4 @@ uid,country,province,date,c_confirmed,pd_confirmed,c_death,pd_death,c_recovered,
 124,Canada,Canada,5/10/20,70091,1173,70091,1173,32109,847
 124,Canada,Canada,5/11/20,71264,1173,71264,1173,33007,898
 124,Canada,Canada,5/12/20,72419,1155,72419,1155,34055,1048
+124,Canada,Canada,5/13/20,73568,1149,73568,1149,35177,1122
